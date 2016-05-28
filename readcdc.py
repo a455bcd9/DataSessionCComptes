@@ -34,7 +34,8 @@ def doc_to_text_catdoc(filename):
 def read_xml(filename):
     print filename
     xmlparser = etree.XMLParser(encoding='ISO-8859-15')
-    tree = etree.parse('' + filename, xmlparser)
+    # add metadata/
+    tree = etree.parse('metadata/' + filename, xmlparser)
     root = tree.getroot()
 
     file_not_present = []
@@ -120,8 +121,6 @@ def read_xml(filename):
         else:
             ft_sfname = ''
 
-        # <FT_SFNAME__CONTENU FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte intégral" TYPE="BINARY">
-        # </FT_SFNAME__CONTENU>
         # contenu = ''
         # contenu_html_64 = fiche.find('FT_SFNAME__CONTENU')
         # if contenu_html_64 != None:
@@ -133,32 +132,33 @@ def read_xml(filename):
         #     # Get the HTML code
         #     for string in body:
         #         contenu += etree.tostring(string, pretty_print=True, method="html", encoding='UTF-8')
-        contenu = ''
+        
+        content_as_string = ''
         if len(numero_arpeges) > 0:
-            filename = 'data/docx/all/A' + numero_arpeges + '.docx'
-            if os.path.isfile(filename):
-                contenu = doc_to_text_catdoc(filename)
-                content_as_string = ''
+            filename_docx = 'data/docx/all/A' + numero_arpeges + '.docx'
+            if os.path.isfile(filename_docx):
+                contenu = doc_to_text_catdoc(filename_docx)
                 for line in contenu:
                     content_as_string += line + '\n'
-                content_as_string = base64.b64encode(content_as_string)
-                fiche.append(etree.Element("FT_SFNAME__CONTENU", name=content_as_string))
+                content_base64 = base64.b64encode(content_as_string)
+                new_entry = etree.fromstring('<FT_SFNAME__CONTENU FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte intégral" TYPE="BINARY">' + content_base64 + '</FT_SFNAME__CONTENU>')
+                fiche.append(new_entry)
             else:
                 file_not_present.append(numero_arpeges)
 
-        results.append([juridiction, chambres, reference, numeros_rapport, numero_arpeges, rapporteurs, reviseurs, type_doc, dates_seance, date_doc, date_lecture, titre, ft_sfname, contenu])
+        results.append([juridiction, chambres, reference, numeros_rapport, numero_arpeges, rapporteurs, reviseurs, type_doc, dates_seance, date_doc, date_lecture, titre, ft_sfname, content_as_string])
 
-        # <FT_SFNAME__CONTENU FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte intégral" TYPE="BINARY">
-        # </FT_SFNAME__CONTENU>
+    # root.write('testfull.xml', pretty_print=True, encoding="ISO-8859-15")
 
+    new_filename = 'metadata/metadata_avec_contenu/' + filename.replace('.xml', '') + '_avec_contenu.xml'
+    with open(new_filename, 'w') as f:
+        f.write(etree.tostring(root, pretty_print=True, encoding="ISO-8859-15"))
+    
     return file_not_present
+    # End read_xml
 
-    etree.write(filename)
-
-# for filename in os.listdir('metadata/'):
-#     if filename != 'zip':
-#         file_not_present = read_xml(filename)
-#         print file_not_present
-#         # print filename
-
-read_xml('test2015.xml')
+for filename in os.listdir('metadata/'):
+    if filename != 'zip' and filename!= 'metadata_avec_contenu':
+        file_not_present = read_xml(filename)
+        print file_not_present
+        # print filename
