@@ -34,7 +34,7 @@ def doc_to_text_catdoc(filename):
 def read_xml(filename):
     print filename
     xmlparser = etree.XMLParser(encoding='ISO-8859-15')
-    tree = etree.parse('metadata/' + filename, xmlparser)
+    tree = etree.parse('' + filename, xmlparser)
     root = tree.getroot()
 
     file_not_present = []
@@ -138,6 +138,11 @@ def read_xml(filename):
             filename = 'data/docx/all/A' + numero_arpeges + '.docx'
             if os.path.isfile(filename):
                 contenu = doc_to_text_catdoc(filename)
+                content_as_string = ''
+                for line in contenu:
+                    content_as_string += line + '\n'
+                content_as_string = base64.b64encode(content_as_string)
+                fiche.append(etree.Element("FT_SFNAME__CONTENU", name=content_as_string))
             else:
                 file_not_present.append(numero_arpeges)
 
@@ -148,8 +153,12 @@ def read_xml(filename):
 
     return file_not_present
 
-for filename in os.listdir('metadata/'):
-    if filename != 'zip':
-        file_not_present = read_xml(filename)
-        print file_not_present
-        # print filename
+    etree.write(filename)
+
+# for filename in os.listdir('metadata/'):
+#     if filename != 'zip':
+#         file_not_present = read_xml(filename)
+#         print file_not_present
+#         # print filename
+
+read_xml('test2015.xml')
