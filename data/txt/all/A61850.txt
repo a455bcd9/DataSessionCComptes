@@ -1,0 +1,466 @@
+  COUR DES COMPTES
+	   ------ 
+TROISIEME CHAMBRE
+	   ------ 
+ QUATRIEME SECTION 
+	    ------ 
+        Arrêt n° 61850
+UNIVERSITE PARIS VIII -VINCENNES - SAINT-DENIS
+
+Exercices 2002 à 2007
+
+Rapport n° 2011-393-0
+
+Audience publique et délibéré
+du 5 juillet 2011
+
+Lecture publique du 4 octobre 2011
+REPUBLIQUE FRANÇAISE
+
+AU NOM DU PEUPLE FRANÇAIS
+
+LA COUR DES COMPTES a rendu l’arrêt suivant :
+LA COUR,
+Vu les comptes de l’UNIVERSITE PARIS VIII - VINCENNES –SAINTDENIS produits pour les exercices 2002 à 2007 par M. X du 1er janvier 2002 au 15 mars 2004, M. Y du 16 mars 2004 au 7 avril 2005, M. X du 8 avril 2005 au 25 septembre 2005, en qualité d’intérimaire, Mme Z du 26 septembre 2005 au 4 novembre 2007 et M. A du 5 novembre 2007 au 31 décembre 2007 ;
+Vu le réquisitoire n° 2010-64 RQ - DB du 15 juillet 2010 par lequel le Procureur général a saisi la Cour de présomptions de charge relatives, d’une part, à des créances inscrites en restes à recouvrer au 31 décembre 2007 dans les comptes de l’établissement, d’autre part, à des dépenses irrégulièrement payées ;
+Vu le réquisitoire complémentaire n° 2011-13 RQDB du 21 janvier 2011 par lequel le Procureur général a saisi la Cour d’une présomption de charge relative à la reprise dans la comptabilité de l’université, en l’absence de pièces justificatives suffisantes, de dépenses payées au titre de la régie de la présidence de l’université ;
+
+Vu le code des juridictions financières, en particulier ses articles L. 142-1 et R. 141-13 à R. 141-19 ;
+Vu l’article 60 de la loi de finances n° 63-156 du 23 février 1963, aux termes duquel, notamment : « Les comptables publics sont personnellement et pécuniairement responsables des contrôles qu'ils sont tenus d'assurer en matière de recettes, de dépenses et de patrimoine dans les conditions prévues par le règlement général sur la comptabilité publique (...). La responsabilité personnelle et pécuniaire prévue ci-dessus se trouve engagée dès lors qu'un déficit ou un manquant en monnaie ou en valeurs a été constaté, qu'une recette n'a pas été recouvrée, qu'une dépense a été irrégulièrement payée (...) ;  La responsabilité pécuniaire des comptables publics s'étend à toutes les opérations du poste comptable qu'ils dirigent depuis la date de leur installation jusqu'à la date de cessation des fonctions. Cette responsabilité s'étend aux opérations des comptables publics placés sous leur autorité et à celles des régisseurs (...) » ;
+Vu le décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ;
+Vu les lois et règlements applicables aux établissements à caractère scientifique, culturel et professionnel ;
+Vu l’arrêté du Premier président du 3 février 2011 portant répartition des attributions entre les chambres de la Cour des comptes ;
+Vu les lettres de mission en date du 6 octobre 2010 et du 1er février 2011, par lesquelles le président de la troisième chambre a désigné MM. Robert Korb et Robert de Nicolay, conseillers maîtres, pour instruire ces réquisitoires ;
+Vu la notification du réquisitoire n° 2010-64 RQDB en date du 23 octobre 2010 et de l’instruction afférente, à M. X qui en a accusé réception le 23 octobre 2010, à M. Y qui en a accusé réception le 3 novembre 2010, à Mme Z qui en a accusé réception le 22 octobre 2010, à M. A qui en a accusé réception le 21 octobre 2010 et au président de l’université Paris VIII -Vincennes - Saint-Denis, ordonnateur, qui en a accusé réception le 21 octobre 2010 ;
+Vu la notification du réquisitoire complémentaire n° 2011—13 RQDB en date du 21 janvier 2011 et de l’instruction afférente à M. X qui en a accusé réception le 2 février 2011 et au président de l’université Paris VIII – Vincennes - Saint-Denis, ordonnateur, qui en a accusé réception le 1er février 2011 ; 
+Vu l’ensemble des pièces jointes au réquisitoire ;
+Vu les réponses au réquisitoire n° 2010-64 RQ - DB apportées par M. Y par courrier du 22 février 2011 complété par une télécopie du 20 juin 2011, par Mme Z par courrier du 13 janvier 2011 et par M. A par un courrier du 20 janvier 2011 ;
+Vu le rapport à fin d’arrêt n° 2011-393-0 de MM. Robert Korb et Robert de Nicolay, conseillers maîtres, déposé le 30 mai 2011 et transmis au Procureur général de la République ;
+Vu les conclusions n° 413 en date du 21 juin 2011 du Procureur général de la République ; 
+Vu les lettres du 1er juin 2011 informant les agents comptables et l’ordonnateur de la tenue de l’audience publique et de la possibilité d’y présenter leurs observations ; 
+Vu la feuille de présence à l’audience publique qui s’est tenue le 5 juillet 2011, attestant d’une part la présence de M. X, M. Y, assisté de son conseil Maître Rebière-Lathoud, Mme  Z et M. A, et d’autre part que l’ordonnateur ne s’est pas présenté à cette audience ;
+Après avoir entendu en audience publique MM. Robert Korb et Robert de Nicolay, conseillers maîtres, en leur rapport, et M. Louis Vallernaud, avocat général, en ses conclusions orales, M.  X, M.  Y, Mme  Z et M.  A ayant présenté leurs observations et ayant eu la parole en dernier ;
+Après avoir délibéré hors la présence des rapporteurs et du représentant du ministère public, M. Pascal Duchadeuil, réviseur, étant entendu en ses observations ; 
+I. Sur les présomptions de charge relatives à l’absence de recouvrement de créances sur les débiteurs visés par la loi du 31 décembre 1968 relative à la prescription sur l’Etat, les départements, les communes et les établissements publics 
+Attendu qu’aux termes de l’article 1er de la loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l’Etat, les départements, les communes et les établissements publics, sont prescrites au profit de ces personnes publiques « toutes créances qui n’ont pas été payées dans un délai de quatre ans à partir du premier jour de l’année suivant celle au cours de laquelle les droits ont été acquis » ; qu’il résulte de ces dispositions, qui sont également applicables aux régions, devenues des collectivités territoriales postérieurement à l’entrée en vigueur de la loi du 31 décembre 1968, que le point de départ du délai de prescription est fixé au début de l’exercice qui suit celui au cours duquel la créance est devenue certaine ;
+Sur la première présomption de charge du réquisitoire n° 201064 DB RQ à l’encontre de M. Y 
+
+Attendu que la première présomption de charge du réquisitoire 
+n° 2010-64 RQDB porte sur la responsabilité de M. Y, au titre de l’exercice 2004, à raison du non recouvrement de trois créances d’un montant total de 6 002,38 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4111, au motif que, en l’absence de diligences ayant permis d’en interrompre le cours, la prescription au bénéfice du débiteur public était acquise depuis le 1er janvier 2005 ;
+
+
+Attendu que M. Y a indiqué sur ce point lors de l’instruction : « Concernant les titres anciens, et donc ceux visés par cette charge, je me souviens clairement avoir demandé à Mme B, ma responsable comptable, d'envoyer des commandements de payer afin de reporter la prescription et de nous laisser le temps de réagir de manière adéquate, s'agissant essentiellement de débiteurs publics concernés. Il est malheureux que les récépissés de ces actes n'aient pas été précautionneusement conservés dans le service afin de vous être produits. Vous noterez cependant que ces trois titres figuraient au titre de mes réserves émises sur le compte 4111, les dites-réserves étant l'objet d'abondants commentaires au réquisitoire » ;
+Considérant que l’existence de réserves valides est insuffisante pour dégager le comptable entrant de toute responsabilité dans le défaut de recouvrement des créances sur lesquelles ces réserves ont porté ; qu’il lui appartient en effet d’effectuer des diligences complètes, rapides et adéquates avant que le recouvrement ne soit définitivement compromis ;
+Considérant que les éléments de contexte relatifs aux conditions d’exercice des fonctions d’agent comptable à l’université Paris VIII, dont a fait état M. Y lors de l’instruction, notamment en ce qui concerne l’organisation du service, la compétence de ses agents ou la mise en œuvre, à compter du 1er janvier 2004 d’un nouveau logiciel financier et comptable ayant entraîné des désordres comptables, ne peuvent exonérer le comptable de sa responsabilité dans le recouvrement des créances de l’université ; que les circonstances difficiles dans lesquelles le comptable a exercé ses fonctions ne peuvent être invoquées qu’à l’appui d’une demande de remise gracieuse des débets que la Cour est susceptible de prononcer ; 
+Attendu par ailleurs que pour la créance « Dauphine », M. Y a fait valoir que « cette cote ayant été enregistrée en comptabilité en date du 26 janvier 2001, ce changement de date de prise en charge reporte la prescription d’un an » ;
+Considérant que cette date d’enregistrement a pour conséquence qu’il n’y a pas lieu d’engager la responsabilité de M. Y au titre du non - recouvrement de cette créance, qui a été prescrite le 1er janvier 2006, soit après sa cessation de fonction ; que tel n’est en revanche pas le cas pour les deux autres créances pour lesquelles la prescription a été acquise le 1er janvier 2005, soit avant sa sortie de fonction le 7 avril 2005 ; que ces deux créances figurent à l’état des restes à recouvrer du compte 4111, actualisé au 3 mai 2011, avec la mention « prescription » ; que M. Y n’a pas apporté la preuve qu’il avait effectué des diligences adéquates et rapides pour en assurer le recouvrement ;
+Considérant, en conséquence, qu’il convient de constituer M. Y en débet au titre de sa gestion pour le montant total de ces deux créances, soit 4 535,52 € ; 
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. Y a accusé réception le 3 novembre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+Sur la deuxième présomption de charge du réquisitoire n° 201064 DB RQ à l’encontre de Mme Z 
+
+Attendu que la seconde présomption de charge du réquisitoire n° 201064 RQDB, porte sur la responsabilité de Mme Z : 
+- au titre de l’exercice 2005, à raison du non recouvrement des quatre créances ci-dessous mentionnées, d’un montant total de 61 357,08 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4111 et dont, en l’absence de diligences ayant permis d’en interrompre le cours, la prescription au bénéfice de ces débiteurs publics a été acquise le 1er janvier 2006 :
+
+Attendu que l’état des restes à recouvrer du compte 4111, actualisé au 3 mai 2011, permet de constater que ces quatre créances n’étaient toujours pas recouvrées à cette date ; 
+Considérant toutefois qu’en raison du court délai existant entre le 26 septembre 2005, date de prise de fonction de Mme Z, et le 1er janvier 2006, date de prescription desdites créances, le comptable n’était pas matériellement à même de procéder aux recherches et diligences nécessaires pour recouvrer ces quatre créances, compte tenu du très grand nombre total de créances à recouvrer ;
+Considérant ainsi qu’il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre ;
+- au titre de l’exercice 2006, à raison du non recouvrement des trois créances ci-dessous mentionnées, d’un montant total de 16 856,10 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4111 et dont, en l’absence de diligences ayant permis d’en interrompre le cours, la prescription au bénéfice du débiteur public a été acquise le 1er janvier 2007 :  
+
+
+Attendu que l’état des restes à recouvrer du compte 4111, actualisé au 3 mai 2011, permet de constater que ces trois créances ne sont toujours pas recouvrées ; 
+Considérant toutefois que, comme Mme Z l’a fait valoir dans sa réponse au réquisitoire, les éléments matériels dont elle disposait pour identifier ces créances et opérer leur recouvrement étaient manifestement insuffisants ;
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre ;
+Sur la troisième présomption de charge du réquisitoire n° 201064 DB– RQ à l’encontre de M. A
+Attendu que la troisième présomption de charge du réquisitoire n° 201064 RQDB porte sur la responsabilité de M.  A, engagée, au titre de l’exercice 2007, à raison du non recouvrement des deux créances 
+ci-dessous mentionnées, d’un montant total de 40 037 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4111 et dont, en l’absence de diligences ayant permis d’en interrompre le cours, la prescription au bénéfice des débiteurs publics a été acquise le 1er janvier 2008 : 
+
+
+Attendu que l’état des restes à recouvrer du compte 4111, actualisé au 3 mai 2011, permet de constater que ces deux créances ne sont toujours pas recouvrées ; 
+Considérant toutefois qu’en raison du court délai existant entre le 5 novembre 2007, date de prise de fonction de M. A et le 1er janvier 2008, date de prescription desdites créances, M. A n’était pas matériellement, à même de procéder aux recherches et diligences nécessaires pour recouvrer ces deux créances, compte tenu du très grand nombre total de créances à recouvrer ; 
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de M. A à ce titre ;
+
+II. Sur les présomptions de charge relatives à l’absence de recouvrement de créances sur des débiteurs autre que les débiteurs publics visés par la loi du 31 décembre 1968 
+
+Sur la quatrième présomption de charge du réquisitoire n° 201064 DB RQ à l’encontre de M. X
+Attendu que la quatrième présomption de charge du réquisitoire n° 201064 RQDB concerne des créances inscrites en restes à recouvrer au 31 décembre 2007 aux comptes 4111, 4631 et 425 sur des personnes autres que des débiteurs publics visés par la loi du 31 décembre 1968 ; 
+
+Attendu que la quatrième présomption de charge porte sur la responsabilité de M. X, au titre de l’exercice 2004, à raison du non recouvrement des dix créances ci-dessous mentionnées, d’un montant total de 28 984,65 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4111 :
+
+
+Attendu que l’état des restes à recouvrer du compte 4111, actualisé au mois de mai 2011, permet de constater qu’aucune de ces créances n’était recouvrée à cette date ; qu’au regard de chacune d’elles est portée la mention « prescription » ; 
+Attendu que M. X n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de ces créances, qui était de ce fait définitivement compromis lorsqu’il a quitté ses fonctions le 15 mars 2004 ; 
+Considérant en conséquence qu’il convient de constituer M. X en débet pour le montant total soit 28 984,65 € ;
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ;
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. X a accusé réception le 23 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+Sur la cinquième présomption de charge du réquisitoire 
+n° 201064 DB - RQ à l’encontre de Mme Z 
+Attendu que la cinquième présomption de charge du réquisitoire n° 201064 RQDB porte sur la responsabilité de Mme Z, au titre de l’exercice 2007, en ce qui concerne 61 créances d’un montant total de 141 632,02 €, qui auraient été apurées mais pour lesquelles les versements correspondants auraient été imputés sur d’autres créances, de sorte que, la preuve du règlement n’ayant pu être apportée, elles restaient inscrites en restes à recouvrer au 31 décembre 2007 au compte 4111 ;
+
+
+Attendu que quatre de ces créances (U, XC, XF, XN) ont été en fait recouvrées et ne figurent plus à l’état des restes à recouvrer du compte 4111 actualisé en mai 2011 ; que de ce fait, il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre ; 
+Attendu que pour les 57 autres créances, Mme Z a apporté la preuve qu’elles avaient été recouvrées, même si des erreurs d’imputation ont été commises lors de leur enregistrement en comptabilité ;
+Attendu que la preuve n’a pu être apportée que ces erreurs d’imputation auraient entraîné l’irrécouvrabilité d’autres créances qui, en raison de ces erreurs, seraient apparues à tort en comptabilité comme étant recouvrées ; qu’au demeurant ces créances éventuelles dont le recouvrement aurait été ainsi compromis seraient extérieures au champ du réquisitoire, qui ne porte que sur les créances précédemment citées ; 
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre ;
+
+Sur la sixième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de Mme Z 
+Attendu que la sixième présomption de charge du réquisitoire porte sur la responsabilité de Mme Z, au titre de l’exercice 2007, à raison du non recouvrement des 29 créances ci-dessous mentionnées, d’un montant total de 46 654,72 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4631 : 
+
+
+
+a) Attendu que parmi ces créances, sept d’entre elles, énumérées dans le tableau ci-dessous, ont été en fait recouvrées : 
+
+
+Attendu dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre ; 
+b) Considérant que pour la créance « Intervention XYJ (850 €) », Mme Z a indiqué : « Concernant le titre « intervention XYJ », ce titre figure dans mes réserves, le libellé du titre ne permettant pas d'en effectuer le recouvrement. Ce titre figurait alors en balance d'entrée 2004, soit une créance de l'exercice 2004 » ;
+Considérant que, comme Mme Z l’a fait valoir, les éléments matériels dont elle disposait pour identifier et opérer le recouvrement de cette créance étaient manifestement insuffisants ;
+Considérant dès lors que la responsabilité de Mme Z ne peut être engagée à ce titre ;
+c) Attendu que les trois créances ci-dessous sont de faibles montants ou font l’objet de paiements échelonnés : 
+
+
+Considérant dès lors que la responsabilité de Mme Z ne peut être engagée à ce titre ;
+d) Attendu que les deux créances ci-dessous figurent deux fois dans l’état des restes à recouvrer du compte 4631 :
+
+
+Attendu que l’état de la comptabilité de l’université ne permet pas d’identifier le comptable responsable de l’inscription « en double » de titres de recette identiques sur l’état de restes ; 
+Considérant dès lors que la responsabilité de Mme Z ne peut être engagée à ce titre ;
+
+
+e) Attendu que pour les neuf créances ci-dessous, Mme Z a apporté la preuve qu’elles avaient été recouvrées, même si des erreurs d’imputation ont été commises lors de leur enregistrement en comptabilité :
+
+
+Attendu que la preuve n’a pu être apportée que ces erreurs d’imputation auraient entraîné l’irrécouvrabilité d’autres créances qui, en raison de ces erreurs, seraient apparues à tort en comptabilité comme étant recouvrées ; qu’au demeurant ces créances éventuelles dont le recouvrement aurait été ainsi compromis, seraient extérieures au champ du réquisitoire, qui ne porte que sur les créances précédemment citées ;
+Considérant dès lors que la responsabilité de Mme Z ne peut être engagée à ce titre ; 
+f) Attendu, en revanche, que pour les sept créances ci-après les diligences apparaissent tardives ou insuffisantes :
+Titre n° 52 Bord. 4 – reste à recouvrer de 700 €
+Attendu que pour cette créance, il n’a pas été produit la copie du titre de recette, ni la preuve d’éventuelles diligences pour en assurer le recouvrement ; que l’état des restes à recouvrer au 31 décembre 2007 porte la date « 31/12/2005 » pour une créance de 700 € ; qu’elle figure toujours dans l’état des restes à recouvrer produit par l’agence comptable actualisé au 3 mai 2011, avec le même reste dû de 700 € et la mention suivante portée en observations « demande de remise gracieuse. A présenter en non-valeur en 2011 » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ses explications du fait qu’il relevait de la gestion 2005 et qu’il n’avait pas pu se prescrire au 31 décembre 2007 ; 
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée à hauteur de la somme de 700 € ;
+Titre n° 85 Bord. 6 Facture 05 032 – reste à recouvrer de 560,00 €
+Attendu que pour cette créance, il n’a pas été produit la copie du titre de recette, ni la preuve d’éventuelles diligences pour en assurer le recouvrement ; que l’état des restes à recouvrer au 31 décembre 2007 porte la date « 31/12/2005 » pour cette créance de 560 € ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 560 € avec les mentions suivantes : « université Paris  » et « somme restant à recouvrer » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ses explications du fait qu’il relevait de la gestion 2005 et qu’il n’avait pas pu se prescrire au 31 décembre 2007 ; 
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée pour le recouvrement de cette créance à hauteur de la somme de 560 € ; 
+Titre n° 86 Bord. 6 Facture 05, 026 – reste à recouvrer de 560,00 €
+Attendu que pour cette créance, il n’a pas été produit la copie du titre de recette, ni la preuve d’éventuelles diligences pour en assurer le recouvrement ; que l’état des restes à recouvrer au 31 décembre 2007 porte la date « 31/12/2005 » pour cette créance de 560 € ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 560 € avec les mentions suivantes « université Paris 4 » et « somme restant à recouvrer » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ses explications du fait qu’il relevait de la gestion 2005 et qu’il n’avait pas pu se prescrire au 31 décembre 2007 ; 
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée pour le recouvrement de cette créance à hauteur de la somme de 560 € ;
+Titre n° 176 Bord. 19 Facture 05157 Redevances photocopies / 900 – reste à recouvrer de 165,63 €
+Attendu que pour cette créance, il n’a pas été produit la copie du titre de recette, ni la preuve d’éventuelles diligences pour en assurer le recouvrement ; que l’état des restes à recouvrer au 31 décembre 2007 porte la date « 31/12/2005 » pour cette créance de 165,63 € ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 165,63 € avec la mention suivante « aucun justificatif permettant de poursuivre le recouvrement  » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ses explications du fait qu’il relevait de la gestion 2005 et qu’il n’avait pas pu se prescrire au 31 décembre 2007 ; 
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée pour le recouvrement de cette créance à hauteur de la somme de 165,63 € ;
+Titre n° 35 Bord. 18 Facture 05/200 / 906 – reste à recouvrer de 200,00 €
+Attendu que pour cette créance, un titre de recette n° 35 a été émis le 16 janvier 2006 et un état des sommes à payer a été adressé à « Technique de l’ingénieur » en date du 30 décembre 2005 ; que des diligences sont intervenues par lettres recommandées le 3 juillet 2009 ;
+Attendu que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 200 € avec la mention suivante « dossier en contentieux –transmis à l’huissier en décembre 2010 » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ses explications du fait qu’il relevait de la gestion 2005 et qu’il n’avait pas pu se prescrire au 31 décembre 2007 ; 
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée pour le recouvrement de cette créance à hauteur de la somme de 200 € ;  
+Titre n° 26 Bord. 18 Insc. Confé. XYN / 906 – reste à recouvrer de 200,00 €
+Attendu qu’un titre de recette a été émis le 16 janvier 2006 à l’encontre d’EDF-GDF pour 200 € avec pour objet « inscription conférence H2PTM XYN» ; que cette somme figure à l’état des restes à recouvrer arrêté au 31 décembre 2007 ; qu’une lettre de relance a été faite au débiteur seulement le 3 juillet 2009 ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 200 € avec la mention suivante : « dossier au contentieux – transmis à l’huissier en décembre 2010 » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ses explications du fait qu’il relevait de la gestion 2005 et qu’il n’avait pas pu se prescrire au 31 décembre 2007 ; 
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée pour le recouvrement de cette créance à hauteur de la somme de 200 € ; 
+
+Titre n° 185 Bord. 20 Facture 05208 / 900	– reste à recouvrer de 9 849,34 €
+Attendu que pour cette créance, il n’a pas été produit la copie du titre de recette, ni la preuve d’éventuelles diligences pour en assurer le recouvrement ; que l’état des restes à recouvrer au 31 décembre 2007 porte la date « 31/12/2005 » pour cette créance de 9 849,34 € ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 9 849,34 € avec la mention suivante : « aucun justificatif permettant de poursuivre le recouvrement » ; 
+Attendu que pour ce titre de recette, Mme Z a fait état dans ces explications qu’il relevait de la gestion 2006 ;
+Considérant toutefois que, quelle que soit la date applicable pour la prescription, Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant dès lors que la responsabilité de Mme Z est engagée pour le recouvrement de cette créance à hauteur de la somme de 9 849,34 € ;
+Considérant en conséquence qu’il convient de constituer Mme Z en débet à hauteur des restes à recouvrer sur les sept créances susmentionnées (700 €, 560 €, 560 €, 165,63 €, 200 €, 200 €, 9 849,34 €), soit un montant total de 12 234,97 € ;
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont Mme Z a accusé réception le 22 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+
+Sur la septième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de M. X
+Attendu que la septième présomption de charge du réquisitoire porte sur la responsabilité de M.  X ;
+- au titre de l’exercice 2004, en ce qui concerne les six créances 
+ci-dessous mentionnées, d’un montant total de 10 261,24 €, qui restaient inscrites en restes à recouvrer au 31 décembre 2007 au compte 4631, alors que, suivant les cas, elles seraient prescrites ou auraient été apurées, mais les versements correspondants auraient été imputés sur d’autres créances :
+
+
+Attendu qu’il ressort de l’instruction que ces créances ont été déjà payées, mais ont fait l’objet d’une erreur d’émargement, sans qu’il soit possible de déterminer la date à laquelle est intervenue cette erreur ;
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de M. X à ce titre ;
+- au titre de l’exercice 2005, en ce qui concerne la créance ci-dessous mentionnée, d’un montant de 570 €, inscrite en reste à recouvrer au 31 décembre 2007 au compte 4631, alors qu’elle aurait été apurée, mais que les versements correspondants auraient été imputés sur d’autres créances. 
+
+
+Attendu que l’état des restes à recouvrer produit par l’agence comptable actualisé au 3 mai 2011 permet de constater que cette créance présente un solde nul et qu’il est porté la mention « titre émargé en juin 2010 » ; que cette créance a donc été recouvrée ;
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de M  X à ce titre ; 
+Sur la huitième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de M. Y
+Attendu que la huitième présomption de charge du réquisitoire 
+n° 2010-64 RQDB porte sur la responsabilité de M.  Y, au titre de l’exercice 2005, en ce qui concerne 33 créances d’un montant total de 91 298,61 €, qui restaient inscrites en restes à recouvrer au 31 décembre 2007 au compte 4631 alors que, selon les cas, les créances seraient prescrites ou bien auraient été apurées, les versements correspondants ayant été imputés à tort sur d’autres créances ; 
+a) Attendu que selon l’état des restes à recouvrer actualisé au 3 mai 2011, la créance FONGECIF Ile-de-France (1 337,06 €) mentionnée ci-dessous est soldée ;
+
+
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de M. Y à ce titre ; 
+
+b) Attendu que les 29 créances énumérées ci-dessous ont, comme l’a fait valoir M. Y dans ses explications, été prises en charge par M. Y moins de six mois avant sa sortie de fonction : 
+
+
+Considérant qu’en raison du court délai existant avant sa sortie de fonction le 7 avril 2005, M. Y n’était pas matériellement à même de procéder aux recherches et diligences nécessaires pour recouvrer ces créances ; que dès lors il n’y a pas lieu d’engager la responsabilité de M. Y à ce titre ;
+
+c) Considérant, en revanche, que le délai dont disposait M. Y était suffisant pour effectuer des diligences concernant les trois créances suivantes, nées en mai 2004, ce qui lui laissait onze mois pour les recouvrer avant sa sortie de fonction :
+
+
+Attendu que pour ces créances, M. Y n’a pas apporté la preuve qu’il a effectué des diligences suffisantes pour en assurer le recouvrement ; 
+Considérant en conséquence qu’il y a lieu de le constituer débiteur pour un montant total de 7 450,57 € ;
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. Y a accusé réception le 3 novembre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ; 
+Sur la neuvième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de Mme Z 
+Attendu que la neuvième présomption de charge du réquisitoire porte sur la responsabilité de Mme  Z, au titre de l’exercice 2007, en ce qui concerne 184 créances d’un montant total de 395 919,22 €, inscrites en restes à recouvrer au 31 décembre 2007 au compte 4631 alors que, selon les cas, les titres correspondants ont été ou auraient dû être annulés, les créances sont devenues prescrites, sont demeurées impayées, ou ont été apurées, mais avec une imputation des versements effectuée à tort sur d’autres créances ;
+Attendu que Mme Z a produit à l’appui de sa réponse des justificatifs de paiement ou d'interruption de la prescription concernant l'ensemble des cotes ;
+
+
+a) Attendu que parmi les créances énumérées dans le réquisitoire, 28 d’entre elles figurant dans le tableau ci-dessous ont été recouvrées : 
+
+
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z au titre de ces créances ;
+
+
+b) Attendu que les sept créances ci-dessous doivent faire l’objet d’annulation ou de réduction pour erreur dans l’émission des titres correspondants :
+
+
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z au titre de ces créances ; 
+c) Attendu qu’un titre de recette n° 430 (XZP – restes à recouvrer de 254,09 € et de 1 756,00 €) a été émis le 28/10/2005 pour un montant de 3 600 € ; qu’il a fait l’objet de deux inscriptions sur l’état des restes à recouvrer arrêté au 31 décembre 2007 ; que l’inscription « en double » de titres de recette identiques sur l’état de restes montre que ce document est erroné à hauteur du montant précité ; 
+Considérant cependant que l’état de la comptabilité de l’université ne permet pas d’identifier le comptable responsable de cette erreur ; 
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z au titre de cette créance ; 
+d) Attendu que pour les  137 créances ci-dessous énumérées, Mme Z a apporté la preuve qu’elles avaient été recouvrées, même si des erreurs d’imputation ont été commises lors de leur enregistrement en comptabilité :
+
+
+Attendu que la preuve n’a pu être apportée que ces erreurs d’imputation auraient entraîné l’irrecouvrabilité d’autres créances qui, en raison de ces erreurs, seraient apparues à tort en comptabilité comme étant recouvrées ; qu’au demeurant ces créances éventuelles dont le recouvrement aurait été ainsi compromis, seraient extérieures au champ du réquisitoire, qui ne porte que sur les créances précédemment citées ;
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre ;
+
+d) Considérant que pour dix créances les diligences apparaissent tardives et insuffisantes ; 
+
+ACP - reste à recouvrer de 2 750 €
+Attendu qu’un titre de recette n° 418 a été émis le 26/10/2005 à l'encontre de Mme ACP pour un montant de 2 750 € ; que selon les pièces produites, une lettre en envoi recommandé a été adressée seulement le 20 octobre 2009 au redevable ; que Mme Z n’a pas produit d’éléments permettant de savoir si une suite avait été donnée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 2 750 € avec la mention suivante : « dossier au contentieux – transmis à l’huissier en décembre 2010 » ; 
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 2 750 € ;
+RATP - reste à recouvrer  de 3 480 €
+Attendu qu’un titre de recette n° 537 a été émis le 02/11/2005 à l'encontre de la RATP (stagiaire M.  ACQ) pour un montant de 3 480 € ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 3 480 € ; qu’une lettre en envoi recommandé a été adressée au redevable seulement le 10 juillet 2009 ; qu’il n’a pas été produit d’éléments permettant de savoir si une suite avait été donnée à cette relance tardive ;
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 3 480 € ;
+ACR - reste à recouvrer de 2 750 €
+Attendu qu’un titre de recette n° 421 a été émis le 28/10/2005 à l'encontre de M.  ACR pour un montant de 2 750 € ; qu’une lettre en envoi recommandé a été adressée seulement le 10 juillet 2009 au redevable ; qu’il n’a pas été produit d’éléments permettant de savoir si une suite avait été donnée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 2 750 € avec la mention suivante : « dossier au contentieux – transmis à l’huissier en décembre 2010) ;
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 2 750 € ;
+Service social de prévention - reste à recouvrer de 639,80 €
+Attendu qu’un titre de recette a été émis le 05/12/2005 à l'encontre de Service social de prévention (stagiaire M. ACS) pour un montant de 639,80 € ; qu’une lettre en envoi recommandé a été adressée au redevable seulement le 20 octobre 2009 ; qu’il n’a pas été produit d’éléments permettant de savoir si une suite avait été donnée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 639,80 € avec la mention suivante : « reste à recouvrer – demande d’autorisation de poursuite à établir » ; 
+
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 639,80 € ;
+KIABI - reste à recouvrer de 3 730 €
+Attendu qu’un titre de recette a été émis le 01/12/2005 à l'encontre de KIABI (stagiaire M. ACT) pour un montant de 3 730 € ; qu’une lettre en envoi recommandé a été adressée au redevable seulement le 10 juillet 2009 ; qu’il n’a pas été produit d’éléments permettant de savoir si une suite avait été donnée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 3 730 € avec la mention suivante « dossier en contentieux – transmis à l’huissier en décembre 2010 » ;
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 3 730 € ;
+FONGECIF Ile-de-France - reste à recouvrer de 561,64 €
+Attendu qu’un titre de recette a été émis le 09/12/2005 à l'encontre de FONGECIF Ile-de-France (stagiaire Mme ACU) pour un montant de 3 660 € ; que selon les relevés de comptes de la trésorerie principale de Bobigny, une somme de 1 047,83 € a été réglée par virement bancaire le 17 juillet 2006 (inclus dans un total de 3 638,30 €) auquel s’ajoute un virement bancaire de 2 050,53 € selon le FONGECIF intervenu le 20 décembre 2005 ; que pour le solde de 561,64 € de cette créance, l’agent comptable a adressé une lettre recommandée à FONGECIF seulement le 10 juillet 2009 ; qu’il n’apparaît pas qu’une suite ait été apportée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître la mention suivante « payé le 27/12/2005 pour 2 050,53 €, payé le 10/07/2006 pour 1 047,83 € - il reste à recouvrer 561,64 € - lettre en recommandé au 02/05/2011 – aucune réponse » ; 
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 561,64 € ;
+FONGECIF Ile-de-France - reste à recouvrer  de 1 331,54 €
+Attendu qu’un titre de recette n° 596 a été émis le 10/11/2005 à l'encontre du FONGECIF Ile-de-France (stagiaire M. XZY) pour un montant de 3 328,84 € ; que selon les relevés de comptes de la trésorerie principale de Bobigny, une somme de 1 997,30 € a été réglée par virement bancaire le 14 novembre 2005 (incluse dans un total de 4 687,43 €) ; que constatant un solde de 1 331,54 € pour cette créance, l’agent comptable a adressé une lettre recommandée à FONGECIF le 10 juillet 2009 ; qu’il n’apparaît pas qu’une suite ait été apportée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître la mention suivante : « payé le 14/11/2005 pour 1 997,30 € - il reste à recouvrer 1 331,54 € - lettre en recommandé du 02/05/2011 : aucune réponse » ;
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 1 331,54 € ;
+FONGECIF Ile-de-France - reste à recouvrer de 1 361,96 €
+Attendu qu’un titre de recette n° 594 a été émis le 10/11/2005 à l'encontre de FONGECIF Ile-de-France (stagiaire M.  ACV) pour un montant de 3 404,89 € ; que selon les relevés de comptes de la trésorerie principale de Bobigny, une somme de 2 042,93 € a été réglée par virement bancaire le 14 novembre 2005 (incluse dans un total de 4 687,43 €) ; que pour le solde de 1 361,96 €, l’agent comptable n’a pas effectué de relance du débiteur (seule figure au dossier une mention manuscrite indiquant le n° du dossier FONGECIF et un n° de téléphone) ; que les poursuites pour le recouvrement du reliquat apparaissent défaillantes ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître la mention suivante : « payé le 14/11/2005 pour 2 042,93 € - il reste à recouvrer 1 361,96 € - lettre en recommandé du 02/05/2011 : aucune réponse » ; 
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 1 361,96 € ;
+
+IBM France - reste à recouvrer de 3 480,00 €
+Attendu qu’un titre de recette n° 538 a été émis le 02/11/2005 à l'encontre de IBM France (stagiaire Mlle ACW) pour un montant de 3 480 € ; qu’une lettre en envoi recommandé a été adressée au redevable seulement le 16 novembre 2009 ; qu’il n’apparaît pas qu’une suite ait été apportée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître le même reste dû de 3 480 € avec la mention suivante : « reste à recouvrer – demande d’autorisation de poursuite » ; 
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z à hauteur de la somme de 3 480 € ; 
+FONGECIF Ile-de-France - reste à recouvrer  de 250,00 €
+Attendu qu’un titre de recette n° 542 a été émis le 02/11/2005 à l'encontre du FONGECIF (stagiaire Mme ACX) pour un montant de 2 262 € ; que selon les bordereaux de chèques bancaires, une somme de 904,80 € a été réglée par chèque n° 9794165 remis à l’encaissement le 3 octobre 2005 auquel s’ajoute, selon un extrait de compte produit par le comptable, un autre versement de 1 468 € intervenu le 30 juin 2005 ; que constatant un solde de 250 € pour cette créance, l’agent comptable a adressé une lettre recommandée à FONGECIF seulement le 10 juillet 2009 ; qu’il n’apparaît pas qu’une suite ait été apportée à cette relance tardive ; que l’état des restes à recouvrer actualisé au 3 mai 2011 fait apparaître la mention suivante : « il reste à recouvrer 250 € - lettre en recommandé du 02/05/2011 : aucune réponse » ; 
+Considérant que Mme Z n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de cette créance, qui était de ce fait définitivement compromis lorsqu’elle a quitté ses fonctions le 4 novembre 2007 ;
+Considérant ainsi qu’il y a lieu d’engager la responsabilité de Mme Z ; 
+Considérant en conséquence qu’il y a lieu de constituer Mme Z en débet pour l’absence de recouvrement des dix créances visées ci-dessus 2 750 €, 3 480 €, 2 750 €, 639,80 €, 3 730 €, 561,64 €, 1 331,54 €, 1 361,96 €, 3 480 €, 250 €, soit au total 20 334,94 € ; 
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont Mme Z a accusé réception le 22 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ; 
+Sur la dixième présomption de charge du réquisitoire n° 201064 DB RQ à l’encontre de M. X
+Attendu que la dixième présomption de charge du réquisitoire n° 201064 RQDB porte sur la responsabilité de M.  X : 
+- au titre de l’exercice 2004, à raison du non recouvrement des quinze créances ci-dessous mentionnées, d’un montant total de 12 375,70 €, correspondant à des avances versées à des agents de l’université qui, n’ayant pas été régularisées, demeuraient inscrites en restes à recouvrer au 31 décembre 2007 au compte 425 : 
+
+Attendu que pour la créance « ADL », l’état de restes au 3 mai 2011 fait apparaître un reste à recouvrer de 1 552 €, compte tenu d’un règlement de 300 € en 2010 et de 800 € en 2011 ; que les versements effectués permettent de considérer que l’apurement de la créance en cours ;
+Considérant ainsi qu’il n’y a pas lieu d’engager la responsabilité de M. X au titre de cette créance ;
+Considérant en revanche que pour les quatorze autres créances d’un montant total de 9 723,70 €, aucun règlement n’a été effectué ; que le montant dû figurant sur l’état de restes actualisé au 3 mai 2011 est inchangé par rapport à l’état de développement de soldes arrêté au 31 décembre 2007 ; que ces créances ne sont donc pas recouvrées ;
+Considérant que M. X n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de ces créances, qui était de ce fait définitivement compromis lorsqu’il a quitté ses fonctions le 15 mars 2004 ;
+Considérant en conséquence, qu’il y a lieu d’engager la responsabilité de M. X au titre de sa gestion pour le montant total de 9 723,70 € ;
+- au titre de l’exercice 2005, à raison du non recouvrement de la créance d’un montant de 1 648,03 €, correspondant à une avance versée à un agent de l’université qui, n’ayant pas été régularisée, demeurait inscrite en restes à recouvrer au 31 décembre 2007 au compte 425 ;
+
+
+Attendu que l’état des restes à recouvrer produit par l’agence comptable actualisé au 3 mai 2011 fait apparaître que cette créance n’est pas recouvrée ; qu’il n’y a pas d’éléments permettant de faire état de diligences pour le recouvrement de cette créance ; 
+Considérant que M. X n’a pas produit la preuve des diligences rapides, complètes et adéquates effectuées pour assurer le recouvrement de ces créances, qui était de ce fait définitivement compromis lorsqu’il a quitté ses fonctions le 7 avril 2005 ; 
+Considérant en conséquence, qu’il y a lieu d’engager la responsabilité de M. X au titre de sa gestion pour le montant de 1 648,03 € ;
+Considérant en définitive qu’il convient de constituer M. X en débet du montant total de 11 371,73 € (9 723,70 € et 1 648,03 €) ;
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. X a accusé réception le 23 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+III. Sur les présomptions de charge au titre des dépenses payées avant ordonnancement
+Attendu que selon les états de développement des soldes au 31 décembre 2007, le compte 4721 « Dépenses à classer et à régulariser - Dépenses payées avant ordonnancement » fait apparaître un solde anormalement débiteur de la somme de 487 942,96 €, correspondant à des paiements avant ordonnancement effectués au cours des exercices 2002 à 2007 et non régularisés par imputation des dépenses correspondantes à un compte budgétaire ;
+Sur la onzième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de M. X
+Attendu que la onzième présomption de charge du réquisitoire porte sur la responsabilité de M.  X pour des paiements avant ordonnancement non régularisés intervenus durant sa gestion en 2003 (136 701,67 €), en 2004 jusqu’au 15 mars (13 514,52 €), et en 2005 du 8 avril au 25 septembre (28 541,58 €), les justifications permettant à l’ordonnateur de mandater des dépenses réalisées sans ordonnancement préalable n’ayant pas été produites ; 
+Attendu qu’aux termes de l’instruction codificatrice n° 05-027-M93 du 30 mai 2005 relative à la réglementation budgétaire, financière et comptable des établissements publics à caractère scientifique, culturel et professionnel, « la régularisation des sommes payées sans ordonnancement préalable est effectuée par l’émission d’un mandat » ; que « cette régularisation doit être effectuée dans les plus brefs délais » ; que « le recours au paiement sans ordonnancement préalable ne dispense pas l’agent comptable d’effectuer les contrôles prévus aux articles 12 et 13 du décret n° 62-1587 du 29 décembre 1962 » ;
+
+Attendu que le compte 4721 « Dépenses à classer et à régulariser - Dépenses payées avant ordonnancement » fait état, à la date du 3 mai 2011, des montants suivants pour les périodes au cours desquelles M. X était en fonction : 136 564,37 € sur l’exercice 2003, 12 064,89 € sur l’exercice 2004 et 26 593,02 € sur l’exercice 2005, ainsi que l’indiquent les tableaux 1, 2 et 
+3 ci-dessous :  
+Tableau 1 – Compte 4721 - Opérations sur l’exercice 2003
+
+
+
+Tableau 2 - Compte 4721 - Opérations sur l’exercice 2004
+
+Tableau 3 - Compte 4721 - Opérations sur l’exercice 2005
+
+Attendu que M. X n’a pas produit de justifications ; 
+Considérant dès lors qu’il convient de constituer M. X en débet pour ces paiements avant ordonnancement non régularisés intervenus durant sa gestion, soit un montant total de 175 222,28 €, dont 136 564,37 € au titre des opérations de l’exercice 2003, 12 064,89 € au titre des opérations de l’exercice 2004 et 26 593,02 € au titre des opérations de 2005 ; 
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ;
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. X a accusé réception le 23 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ; 
+Sur la douzième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de M. Y
+Attendu que la douzième présomption de charge du réquisitoire n° 201064 RQDB porte sur la responsabilité de M.  Y pour des paiements avant ordonnancement non régularisés intervenus durant sa gestion du 16 mars au 31 décembre 2004 (24 808,70 €) et en 2005, jusqu’au 7 avril (1 181,46 €), les justifications permettant à l’ordonnateur de mandater des dépenses réalisées sans ordonnancement préalable n’ayant pas été produites ; 
+Attendu qu’aux termes de l’instruction codificatrice n° 05-027-M93 du 30 mai 2005 relative à la réglementation budgétaire, financière et comptable des établissements publics à caractère scientifique, culturel et professionnel, « la régularisation des sommes payées sans ordonnancement préalable est effectuée par l’émission d’un mandat » ; que « cette régularisation doit être effectuée dans les plus brefs délais » ; que « le recours au paiement sans ordonnancement préalable ne dispense pas l’agent comptable d’effectuer les contrôles prévus aux articles 12 et 13 du décret n° 62-1587 du 29 décembre 1962 » ;
+Attendu que le compte 4721 « Dépenses à classer et à régulariser - Dépenses payées avant ordonnancement » n’était toujours pas régularisé en date du 3 mai 2011 pour les opérations suivantes concernant la gestion comptable de M. Y sur l’exercice 2004 pour 21 620,34 € et sur l’exercice 2005 pour 1 181,86 €, ainsi que l’indiquent les tableaux 4 et 5 ci-dessous ;
+
+Tableau 4 - Compte 4721 - Opérations sur l’exercice 2004
+
+
+
+Tableau 5 - Compte 4721 - Opérations sur l’exercice 2005
+
+Attendu que dans sa réponse, M. Y a apporté les explications suivantes : « J'avais déjà indiqué dans mes réserves combien l'application comptable et financière de PARIS 8 « GEFYCO » fonctionnait de manière chaotique avec de longues périodes d’arrêt, en particulier en début d'exercice suivant, la gestion de deux exercices concomitants lui étant impossible. Dans ce sens, il était impossible d'éviter le paiement sans mandatement de factures des fournisseurs de l'université dont, bien souvent, la survie en tant qu'entreprise dépendait. Dans ce sens, tous les agents comptables l'ont, à leur corps défendant, autorisé et c'est l'essentiel des dépenses dites « irrégulièrement payées » ; « Pour ma part, j'ai toujours exigé avant chaque paiement la pièce justificative. J'ai aussi constaté combien ces pièces étaient mal classées et souvent perdues par le service financier. Grâce à des actions vigoureuses mise en œuvre dès la compréhension du problème de classement, les soldes débiteurs ont été réduits. Ainsi en 2005, seul un montant de 1 181 € n'avait pas été rapidement régularisé contre malheureusement 24 808 € en 2004. Mon départ précipité en avril 2005 n'a pas permis d'apurer plus de sommes comme je le souhaitais. C'était d'ailleurs un sujet qui était discuté toutes les semaines en réunion » ;
+
+Considérant que les éléments de contexte relatifs aux conditions d’exercice des fonctions d’agent comptable à l’université Paris VIII, dont a fait état M. Y, notamment en ce qui concerne la mise en œuvre d’un nouveau logiciel financier et comptable ayant entraîné des désordres comptables, ne peuvent exonérer le comptable de sa responsabilité ; que les circonstances difficiles dans lesquelles le comptable a exercé ses fonctions ne peuvent être invoquées qu’à l’appui d’une demande de remise gracieuse des débets que la Cour est susceptible de prononcer ; 
+Considérant que la responsabilité de M. Y est engagée pour ces opérations qui figurent toujours dans les comptes de l’université sans avoir été régularisées ;
+Considérant dès lors qu’il convient de constituer M. Y en débet d’un montant total de 22 801,80 € (21 620,34 € au titre des opérations de l’exercice 2004 et 1 181,46 € au titre des opérations de l’exercice 2005) ; 
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêt au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. Y a accusé réception le 3 novembre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ; 
+Sur la treizième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de Mme Z 
+Attendu que la treizième présomption de charge du réquisitoire n° 201064 RQDB porte sur la responsabilité de Mme  Z pour des paiements avant ordonnancement non régularisés intervenus durant sa gestion en 2005, du 25 septembre au 31 décembre (17 150,45 €), 2006 (18 087,16 €) et 2007, jusqu’au 4 novembre (35 209,81 €), les justifications permettant à l’ordonnateur de mandater des dépenses réalisées sans ordonnancement préalable n’ayant pas été produites ; 
+Attendu qu’aux termes de l’instruction codificatrice n° 05-027-M93 du 30 mai 2005 relative à la réglementation budgétaire, financière et comptable des établissements publics à caractère scientifique, culturel et professionnel, « la régularisation des sommes payées sans ordonnancement préalable est effectuée par l’émission d’un mandat » ; que « cette régularisation doit être effectuée dans les plus brefs délais » ; que « le recours au paiement sans ordonnancement préalable ne dispense pas l’agent comptable d’effectuer les contrôles prévus aux articles 12 et 13 du décret n° 62-1587 du 29 décembre 1962 » ;
+Attendu que Mme Z a apporté la réponse suivante : « Je rappelle tout d'abord que j'ai effectué des réserves sur ce compte qui à mon arrivée comportait quinze pages d'opérations non régularisées pour un montant de 680 680,08 €, situation tout à fait anormale et ingérable. Je constate que sont mises à ma charge au titre d'opérations 2006, des opérations figurant en balance d'entrée 2004 avec la mention « 902268 AFE » pour un montant de 594,44 €. Il en est de même pour la somme de 430 € avec la mention « EUA UNIVERSITE MEDITERRANEE », ces sommes figurant dans mes réserves. La somme de 164 € au nom de Monsieur ADS figure également sur l'état du 4721 joint à mes réserves (chèque non régularisé, pas d'objet). Une somme de 94,40 € figure également (SNCF sans indication). 
+Les pièces consultées à la Cour des comptes ne m'ont pas permis d'identifier si d'autres sommes ne correspondaient pas aux dates indiquées sur le réquisitoire. 
+Concernant l'exercice 2005, la somme de 15 852 € a été réglée moins de 15 jours après mon arrivée conformément aux pratiques antérieures, soit par ordre de paiement. Il en est de même pour la somme de 474,05 €. En tout état de cause, mes souvenirs ne me permettent pas de me rappeler de ces opérations, compte tenu notamment du nombre important d'opérations enregistrées. 
+Concernant l'exercice 2007, la date du 3/04/2007 correspond à la reprise des balances d'entrée et non à la date des opérations, il en est ainsi pour les sommes de 65,13 € ; 243,07 € ; 23 188,07 € ; 99,90 € ; 11,00 € ; 419 €. Concernant les autres sommes, il conviendrait de s'interroger sur les dates indiquées ». 
+Considérant qu’il existe une incertitude quant à la date de la dépense pour les deux opérations suivantes : AFE (594,44 €) ; EUA Université Méditerranée (430 €) ; que par ailleurs l’opération « ADS  (164 €) » a été réalisée avant l’arrivée de Mme Z dans le poste comptable ;
+Considérant dès lors qu’il n’y a pas lieu d’engager la responsabilité de Mme Z à ce titre pour ces trois opérations ;
+Attendu par ailleurs que le compte 4721 « Dépenses à classer et à régulariser - Dépenses payées avant ordonnancement » n’est toujours pas régularisé pour les opérations suivantes, détaillées dans les tableaux 6, 7 et 8 ci-dessous, à hauteur de 16 675,40 € pour l’exercice 2005, 16 309,52 € pour l’exercice 2006 et 243,98 € pour l’exercice 2007 :
+Tableau 6 – Compte 4721 – Opérations sur l’exercice 2005
+
+Attendu que le paiement du 10 octobre 2005 concerne la Maison des Indes (ordre de paiement 393 pour un montant de 18 938 € / relevé 203 de 2005 – remboursement de 3 086 € (bordereau 662) du 16 décembre 2006) ; 
+Attendu que le paiement du 4 novembre 2005 de 823,40 € concerne « Schmidt Technologie » (ordre de paiement 438 – relevé 254) ;
+
+Tableau 7 - Compte 4721 - Opérations sur l’exercice 2006
+
+Attendu que ces règlements comportent les caractéristiques suivantes :
+- Fundacíon Polo Mercosur : paiement intervenu le 21 septembre 2006 (10 000 €) selon relevé 177-01 ;
+- AFF: paiement intervenu le 29 décembre 2006 (2 000 €) selon relevé 246 ; 
+-  AFA : paiement intervenu le 25 juillet 2006 (1 741,15 €) selon relevé 140.01 ; 
+- AEX: paiement intervenu le 28 juin 2006 (1 317 €) selon relevé 122.01 ; 
+-  AFG : paiement intervenu le 18 septembre 2006 (385 €) selon relevé 174.01 ; 
+- Hôtel congrès : paiement intervenu le 7 juillet 2006 (210 €) selon relevé 130.01/02 ; 
+- AFH : paiement intervenu le 2 octobre 2006 (183,10 €) selon relevé 184.01 ; 
+- AFI: paiement intervenu le 19 mai 2006 (135 €) selon relevé 95 ; 
+- AFJ : paiement intervenu le 19 mai 2006 (94,40 €) selon relevé 95 ; 
+- Prestation espèces février 2006 Bred : paiement intervenu le 25 avril 2006 (91,10 €) selon relevé 10 ;
+- Christies Images Ltd : paiement intervenu le 4 septembre 2006 (171,55 €) selon relevé 165.10 ; remboursement de 82,78 € selon bordereau 265 ; 
+- Universität Frankfurt : paiement intervenu le 18 septembre 2006 (64 €) selon relevé 174.01. 
+
+Tableau 8 - Compte 4721 - Opérations de l’exercice 2007 
+
+Attendu que cette opération, enregistrée sous le libellé « sarl ; lign 9121001 », a été payée le 22 juin 2006 (243,98 €) selon le relevé 40 ; 
+Considérant que les éléments de contexte relatifs aux conditions d’exercice des fonctions d’agent comptable à l’université Paris VIII, dont a fait état Mme Z, ne peuvent exonérer le comptable de sa responsabilité ; que les circonstances difficiles dans lesquelles le comptable a exercé ses fonctions ne peuvent être invoquées qu’à l’appui d’une demande de remise gracieuse des débets que la Cour est susceptible de prononcer ; 
+Attendu que les règlements figurant dans les tableaux ci-dessus sont intervenus au cours de la gestion de Mme Z ; que sa responsabilité est engagée pour ces opérations qui figurent toujours dans les comptes de l’université sans avoir été régularisées ; 
+Considérant qu’il convient de constituer Mme Z en débet pour un montant total de 33 228,90 € (16 675,40 € pour les opérations de l’exercice 2005, 16 309,52 € pour les opérations de l’exercice 2006 et 243,98 € pour les opérations de l’exercice 2007) ; 
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ;
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont Mme Z a accusé réception le 22 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+
+IV. Sur les présomptions de charge relatives aux dépenses irrégulièrement payées
+Attendu que selon la nomenclature des pièces justificatives des dépenses de l’Etat, à laquelle il convient de se référer dès lors que l’instruction M93 ne comporte aucune précision sur ce point, le paiement d’indemnités est subordonné à la production par l’ordonnateur de la décision d’attribution et de l’état liquidatif et nominatif faisant référence au texte institutif de l’indemnité et à l’arrêté qui en a fixé les taux ;
+Sur la quatorzième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de M. X
+Attendu que M. X a, sur le fondement de quatre mandats n° 443 du 23 mai 2005, 598 du 13 juin 2005, 746 du 27 juin 2005 et 916 du 13 juillet 2005, imputés au compte 64148 « Rémunérations du personnel - Indemnités et avantages divers – Autres » pour le premier et au compte 64144 « Rémunérations du personnel - Indemnités et avantages divers – Formation continue » pour les trois suivants, payé au secrétaire général de l’université alors en fonction, M. AFK, des indemnités d’un montant de 833,33 € par mois sur la période du mois de janvier au mois d’avril 2005, soit 3 333,32 € au total ; 
+Attendu qu’à l’appui des mandats susmentionnés ne figuraient ni décision d’attribution des indemnités, ni état liquidatif et nominatif faisant référence au texte qui les a instituées et à l’arrêté qui en a fixé les taux ; que l’instruction a montré que le président de l’université avait, le 22 novembre 2004, pris un arrêté attribuant à M. AFK « une rémunération de recherche d’un montant de 10 000 euros au titre de l’année 2005, versée mensuellement », sur le fondement duquel les versements ci-dessus mentionnés paraissent être intervenus ; qu’en revanche il n’a pas été trouvé trace d’un état liquidatif et nominatif faisant référence au texte qui a institué les indemnités et à l’arrêté qui en a fixé le taux ;
+Attendu que la quatorzième présomption de charge du réquisitoire n° 201064 DBRQ porte sur la responsabilité de M.  X, au titre de l’exercice 2005, à hauteur de 3 333,32 € pour avoir, sur le fondement des mandats susmentionnés, payé des indemnités alors que n’étaient pas jointes l’ensemble des pièces justificatives prévues par la réglementation pour ce type de dépense ;
+Attendu que M. X n’a pas produit les états liquidatifs et nominatifs nécessaires au règlement de cette dépense ;
+Considérant en conséquence, qu’il convient de constituer M. X en débet pour la somme de 3 333,32 € ; 
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ; 
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. X a accusé réception le 23 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+Sur la quinzième présomption de charge du réquisitoire n° 201064 DBRQ à l’encontre de Mme Z
+Attendu que Mme  Z a, sur le fondement de quatre mandats n° 1320 du 6 octobre 2005, 1501 du 2 novembre 2005, 1569 du 10 novembre 2005 et 1665 du 29 novembre 2005, imputés au compte 64144, payé à M. AFK des indemnités de même montant au titre des mois de juillet, septembre, octobre et novembre 2005, soit 3 333,32 € au total ;
+Attendu que ne figuraient à l’appui des mandats susmentionnés, ni décision d’attribution des indemnités, ni état liquidatif et nominatif faisant référence au texte qui les a instituées et à l’arrêté qui en a fixé les taux ; que l’instruction a montré que le président de l’université avait, le 22 novembre 2004, pris un arrêté attribuant à M. AFK « une rémunération de recherche d’un montant de 10 000 euros au titre de l’année 2005, versée mensuellement », sur le fondement duquel les versements ci-dessus mentionnés paraissent être intervenus ; qu’en revanche il n’a pas été trouvé trace d’un état liquidatif et nominatif faisant référence au texte qui a institué les indemnités et à l’arrêté qui en a fixé le taux ;
+Attendu que la quinzième présomption de charge du réquisitoire n° 201064 DBRQ porte sur la responsabilité de Mme  Z, au titre de l’exercice 2005, à hauteur de 3 333,32 €, pour avoir, sur le fondement des mandats susmentionnés, payé des indemnités alors que n’étaient pas joints l’ensemble des pièces justificatives prévues par la réglementation pour ce type de dépense ;
+Attendu que Mme Z s’est expliquée ainsi sur ce point : « Le procureur souligne que j'ai à tort procédé au paiement d'indemnités à l'ancien secrétaire général pour un montant de 3 333,32 € au titre des mois de juillet, septembre, octobre et novembre 2005 (quinzième charge - obs. n° 6), soit juste à ma prise de fonction. Le paiement a été effectué sur la base de la décision du Président de l'Université en date du 22 novembre 2004. J'appelle votre attention sur le fait que la remise de service a été effectuée le 26 septembre 2005, j'ai par ailleurs formulé dans mes réserves qu'aucune vérification n'était effectuée sur les traitements sur le budget de l'Université. Il me semble que, comme l'a souligné le procureur en préambule, la responsabilité du comptable sortant devrait être recherchée » ;
+
+Attendu qu’en complément à sa réponse, Mme Z a produit une copie de la décision en date du 22 novembre 2004 attribuant une rémunération de recherche d’un montant de 10 000 € au titre de l’année 2005, versée mensuellement ;
+Considérant toutefois que la responsabilité de l’agent comptable est engagée sur chaque paiement pour lequel il est tenu de réaliser les contrôles prescrits par le règlement général sur la comptabilité publique du 29 décembre 1962 en matière de dépense ; qu’il ne peut se retrancher derrière le fait qu’une dépense, même répétitive, a déjà fait l’objet d’un examen par le comptable précédent ; qu’il appartient en effet à chaque agent comptable d’opérer les contrôles qui lui incombent pour dégager sa responsabilité propre ; que, de ce fait, Mme Z aurait dû s’assurer de la validité de la dépense au moment où elle a procédé au règlement ; 
+Considérant en conséquence qu’il convient de constituer Mme Z en débet pour la somme de 3 333,32 € ;
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ;
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont Mme Z a accusé réception le 22 octobre 2010 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+V. Sur la présomption de charge relative aux dépenses payées sur la régie de la présidence
+Sur la charge unique du réquisitoire n° 2011-13 DBRQ à l’encontre de M. X
+Attendu que la charge unique du réquisitoire n° 2011-13 DBRQ du 21 janvier 2011 du Parquet général près la Cour porte sur la responsabilité de M. X, pour des dépenses payées durant sa gestion sur la régie de la présidence ;
+Attendu que le réquisitoire fait valoir que « M.  X paraît avoir engagé sa responsabilité personnelle et pécuniaire, au titre de l’exercice 2005, à hauteur de la somme de 3 251,22 €, pour avoir, sur le fondement des deux mandats n° 1119 et 1121 des 12 et 13 septembre 2005, repris dans la comptabilité de l’université de Paris VIII - Vincennes Saint-Denis la dépense, d’un montant de 59,50 €, qui n’était appuyée d’aucune pièce justificative, et les neuf dépenses, d’un montant total de 3 191,72 €, qui étaient justifiées par un duplicata de la facture et une attestation de non paiement » ; 
+
+Attendu que le réquisitoire précise sur ce point : 
+« Aux termes du paragraphe I de l’article 60 de la loi du 23 février 1963 susvisée, « Les comptables publics sont personnellement et pécuniairement responsables (…) du paiement des dépenses (…). [Leur] responsabilité personnelle et pécuniaire (…) se trouve engagée dès lors (…) qu’une dépense a été irrégulièrement payée (…) ». 
+Attendu qu’aux termes du deuxième alinéa du paragraphe III de l’article 60 de la loi susvisée du 23 février 1963, la responsabilité personnelle et pécuniaire des comptables publics « s’étend aux opérations (…) des régisseurs (…) ».
+Attendu que cette disposition ne trouve pas à s’appliquer seulement dans le cas, prévu au quatrième alinéa du même paragraphe, dans lequel le débet administratif infligé au régisseur en application du décret n° 2008-227 du 5 mars 2008 abrogeant et remplaçant le décret n° 66-850 du 15 novembre 1966 relatif à la responsabilité personnelle et pécuniaire des régisseurs « est lié à une faute ou une négligence caractérisée commise par le comptable public à l’occasion de son contrôle sur pièces ou sur place » de la régie ;
+Attendu qu’une régie régulièrement constituée constitue le prolongement de la caisse du comptable patent ; qu’il en résulte que la responsabilité personnelle et pécuniaire du comptable assignataire de la régie est également susceptible d’être mise en jeu par le juge des comptes lorsqu’un déficit en monnaie ou en valeurs a été constaté, qu’une dépense a été irrégulièrement payée, ou que, par la faute du régisseur, une recette n’a pas été encaissée ou une indemnité a dû être versée par l’organisme public à un tiers ou à un autre organisme public, mais que la responsabilité personnelle et pécuniaire du régisseur n’a pas de ce chef été mise en jeu dans les conditions prévues par le décret du 5 mars 2008 ;
+Attendu qu’aux termes de l’instruction codificatrice n° 98-065-M9-R du 4 mai 1998 sur les régies de recettes et d’avances des établissements publics nationaux et des établissements publics locaux d’enseignement, « le régisseur paye les dépenses au vu des pièces justificatives qui sont exigées par les agents comptables pour les paiements assignés directement sur leur caisse. (…) Les contrôles que doivent exercer les régisseurs d’avances (…) portent sur la qualité de l’ordonnateur ou de son délégué, l’exacte imputation des dépenses selon leur nature ou leur objet, la validité de la créance, le caractère libératoire du règlement » ; 
+Attendu que l’instruction codificatrice du 4 mai 1998 précise que « par application des dispositions de l’article 13 du règlement général du 29 décembre 1962, le contrôle par le régisseur de la validité de la créance porte sur la justification du service fait et l’exactitude des calculs de liquidation, l’intervention préalable des contrôles réglementaires et la production des justifications, (…) dans la mesure où des règles propres à chaque organisme le prévoient, l’existence du visa du contrôleur financier ou du contrôleur d’Etat sur l’ordre de payer donné au régisseur par la personne habilitée et les justifications, [et] l’application des règles de prescription » ;
+Attendu que les dispositions concernant le rôle de l’agent comptable dans le remboursement des dépenses d’une régie d’avances figurant dans l’instruction codificatrice du 4 mai 1998, prévoient que « dans le cas où des justifications ne peuvent être acceptées par l’agent comptable, ce dernier raye sur le bordereau récapitulatif la dépense correspondante. Il inscrit le montant des pièces rejetées dans le cadre prévu à cet effet au bordereau (…) et les déduit du montant des dépenses ordonnancées. Afin d’éviter tout retard dans l’imputation des dépenses qu’il accepte, l’agent comptable rectifie d’office l’ordre de dépense et arrête le bordereau pour le même montant » ;
+Considérant qu’en l’espèce, sur le fondement de deux mandats n° 1119 et 1121 des 12 et 13 septembre 2005 imputés au compte 6257 « Réceptions », M. X, a repris dans la comptabilité de l’université des dépenses de restauration payées par carte bancaire par le régisseur de la régie d’avances de la présidence de l’université, M.  AFA, entre le 11 février et le 31 décembre 2002 pour un montant total de 1 451,81 € (mandat n° 1119) et entre le 12 février et le 17 octobre 2003 pour un montant total de 2 527,88 € (mandat n° 1121) ;
+Attendu que pour dix des vingt opérations concernées, les mandats étaient appuyés de factures émises par les fournisseurs visés dans le bordereau récapitulatif joint au mandat ; 
+Attendu par ailleurs que le bordereau récapitulatif joint au mandat n° 1121 du 13 septembre 2005 mentionne une dépense de location de véhicule payée le 9 juillet 2003 à la société President Car pour un montant de 265,30 €, qui n’a pas été repris dans ledit mandat ; que cette dépense, qui n’était appuyée d’aucune facture, paraît ainsi avoir été rejetée par le comptable ; 
+Attendu en revanche qu’aucune facture justifiant la dépense de restauration payée le 13 octobre 2003 à l’hôtel Lutetia pour un montant de 59,50 € n’était jointe au mandat n° 1121 du 13 septembre 2005 ; 
+Attendu de même que les pièces jointes aux mandats n° 1119 du 12 septembre 2005 et 1121 du 13 septembre 2005 pour justifier les dépenses de restauration payées à l’hôtel Lutetia le 1er août 2002 pour un montant de 660,69 €, le 3 septembre 2002 pour un montant de 268 €, le 31 décembre 2002 pour un montant de 100,65 €, le 12 février 2003 pour un montant de 386,50 € et le 12 février 2003 pour un montant de 55 €, à la Galleria Ristorante le 21 septembre 2002 pour un montant de 270 €, à la brasserie Fernand le 6 mars 2003 pour un montant de 784,18 € et le 21 août 2003 pour un montant de 444,68 €, et au restaurant l’Arequier le 26 septembre 2003 pour un montant de 222,02 €, ont pris la forme, pour chaque opération, d’un duplicata produit par le fournisseur et d’une « attestation de non paiement pour titre de dépense adirée », émise par le secrétaire général de l’université, certifiant « que le paiement [au fournisseur concerné] de la facture (…) correspondant au duplicata ci-joint, [n’avait] pas été effectué, l’original de cette facture n’étant jamais parvenu au service financier » et que « si l’original était retrouvé, il serait détruit et ne donnerait pas lieu à un deuxième paiement » ; 
+Considérant que l’attestation ainsi donnée, indiquant de façon littérale que les paiements correspondant aux duplicata produits n’avaient pas été effectués, aurait normalement dû conduire le comptable à rejeter les dépenses concernées ;
+Considérant en outre que, même dans l’hypothèse où le secrétaire général de l’université aurait entendu signifier dans cette attestation, non que les restaurateurs n’avaient pas été payés par le régisseur au moyen de la carte bancaire mise à sa disposition, mais que les factures avaient été perdues et que les dépenses correspondantes n’avaient pas encore été intégrées dans la comptabilité de l’établissement public, le comptable ne disposait pas plus, dans ce cas de figure, des justifications suffisantes ; 
+Considérant en effet que les duplicata joints aux mandats, qui n’étaient pas revêtus de la mention « certifié conforme à l’original » et dont il n’était pas possible d’identifier les signataires, ne permettaient pas de s’assurer que le régisseur avait procédé au contrôle de la validité des créances dans les conditions prévues par l’instruction codificatrice précitée du 4 mai 1998 ;
+Considérant en outre que ces pièces étaient également insuffisantes pour lui permettre de vérifier que le régisseur avait procédé au contrôle du caractère libératoire des règlements dans les conditions prévues par l’instruction du 4 mai 1998 ; que l’examen des relevés bancaires des dépenses exposées par le régisseur pour la période du 11 février au 31 décembre 2002 et la période du 12 février au 17 octobre 2003 fait ainsi apparaître que six paiements au titre desquels ont été produits des duplicata ont en réalité concerné des fournisseurs autres que ceux que ces documents énonçaient ; 
+Attendu que M. X n’a apporté en réponse aucun justificatif ;
+Considérant que la responsabilité personnelle et pécuniaire de M. X est engagée, au titre de l’exercice 2005, à hauteur de la somme de 3 251,22 €, pour avoir, sur le fondement des deux mandats n° 1119 et 1121 des 12 et 13 septembre 2005, repris dans la comptabilité de l’université de Paris 8, la dépense, d’un montant de 59,50 €, qui n’était appuyée d’aucune pièce justificative, et les neuf autres dépenses précitées, d’un montant total de 3 191,72 € ; 
+Considérant en conséquence qu’il convient de constituer M. X en débet  pour le montant de 3 251,22 € ;
+Attendu qu’au terme du paragraphe VIII de l’article 60 de la loi du 23 février 1963 modifiée par la loi du 30 décembre 2006, « les débets portent intérêts au taux légal à compter du 1er acte de la mise en jeu de la responsabilité personnelle et pécuniaire des comptables publics » ;
+
+Considérant qu’en l’espèce, cet acte est la notification du réquisitoire, dont M. X a accusé réception le 2 février 2011 ; que le point de départ des intérêts du débet doit être fixé à cette date ;
+*
+*        *
+Considérant que, les comptes pour l’exercice 2002 de l’université Paris VIII – Vincennes – Saint-Denis ayant été produits à la Cour avant le 31 décembre 2004, M.  X doit être réputé déchargé de sa gestion au titre de cet exercice en application des dispositions figurant au deuxième alinéa du paragraphe IV de l’article 60 de la loi n° 63-156 du 23 février 1963, dans leur rédaction résultant de la loi du 28 octobre 2008 ;
+Attendu que l’exacte reprise des soldes de l’exercice 2007 en balance d’entrée des comptes de l’exercice 2008 n’a pu être vérifiée ;
+Par ces motifs,
+ORDONNE :
+S’agissant du réquisitoire n° 201064 RQDB
+Article 1er : M.  X, ancien agent comptable, est constitué débiteur, envers l’université Paris VIII - Vincennes - Saint - Denis :
+- au titre de la quatrième charge de la somme de 28 984,65 € ;
+- au titre de la dixième charge de la somme de 11 371,73 € ;
+- au titre de la onzième charge de la somme de 175 222,28 € ;
+- au titre de la quatorzième charge de la somme de 3 333,32 €.
+soit un total de 218 911,98 €.
+Article 2 : Le débet prononcé à l’encontre de M. X est augmenté des intérêts de droit calculés à partir du 23 octobre 2010, date de réception du réquisitoire.
+Article 3 : M.  Y, ancien agent comptable, est constitué débiteur, envers l’université Paris VIII - Vincennes - Saint–Denis :
+- au titre de la première charge de la somme de 4 535,52 € ; 
+- au titre de la huitième charge de la somme de 7 450,57 € ;
+- au titre de la douzième charge de la somme de 22 801,80 €.
+soit un total de 34 787,89 €.
+Article 4 : Le débet prononcé à l’encontre de M. Y est augmenté des intérêts de droit calculés à partir du 3 novembre 2010, date de réception du réquisitoire.
+Article 5 : Mme  Z, ancien agent comptable, est constitué débiteur envers l’université Paris VIII - Vincennes - Saint-Denis :
+- au titre de la sixième charge de la somme de 12 234,97 € ; 
+- au titre de la neuvième charge de la somme de 20 334,94 € ; 
+- au titre de la treizième charge de la somme de 33 228,90 € ; 
+- au titre de la quinzième charge de la somme de 3 333,32 €. 
+soit un total de 69 132,13 €. 
+Article 6 : Le débet prononcé à l’encontre de Mme Z est augmenté des intérêts de droit calculés à partir du 22 octobre 2010, date de réception du réquisitoire.
+Article 7 : Il n’y a pas lieu de déclarer M.  A, ancien agent comptable, débiteur au titre des créances visées par la 3ème charge du réquisitoire.
+S’agissant du réquisitoire n° 2011-13  RQ-DB
+Article 8 : M.  X, ancien agent comptable, est constitué débiteur, envers l’université Paris VIII - Vincennes - Saint-Denis de la somme de 3 251,22 €.
+Article 9 : Le débet prononcé à l’encontre de M. X est augmenté des intérêts de droit calculés à partir du 2 février 2011, date de réception du réquisitoire.
+---------
+Fait et jugé en la Cour des comptes, troisième chambre, quatrième section, le cinq juillet deux mil onze. Présents : MM. Picq, Président, Mayaud, Duchadeuil, Andréani, Sabbe, et Mme Seyvet, conseillers maîtres.
+Signé : Picq, Président et Brulé, greffière.
+Collationné, certifié conforme à la minute étant au greffe de la Cour des comptes.
+
+En conséquence, la République mande et ordonne à tous huissiers de justice, sur ce requis, de mettre ledit arrêt à exécution, aux procureurs généraux et aux procureurs de la République près les tribunaux de grande instance, d’y tenir la main, à tous commandants et officiers de la force publique, de prêter main-forte, lorsqu’ils en seront légalement requis.
+Délivré par moi, secrétaire général.
+Pour le Secrétaire général
+et par délégation,
+le Chef du greffe contentieux
+Daniel FEREZ
