@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<!DOCTYPE CADIC SYSTEM "http://prodij:8000/exl-php/util/export_xml/prodij.dtd">
+<CADIC NOM="Legifrance">
+<FICHE ID="JF00126142">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00126142</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64118</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. PEHAU, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GEOFFROY, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>10/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">28/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">28/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Institut national des hautes études de sécurité (INHES) - Exercices 2004 à 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Décharge</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 103.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public administratif</DESCRIPTEUR>
+<DESCRIPTEUR>Agent contractuel</DESCRIPTEUR>
+<DESCRIPTEUR>Rémunération accessoire</DESCRIPTEUR>
+<DESCRIPTEUR>Absence de base juridique</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La responsabilité de plusieurs comptables avait été engagée pour avoir payé au directeur d'un établissement public administratif, sans l'autorisation du conseil d'administration et par parallélisme avec les dispositions d'un décret s'appliquant aux seuls hauts fonctionnaires du ministère de tutelle, des parts variables de rémunération en application de son contrat de recrutement. La Cour a rappelé qu'en l'absence de cette autorisation, le contrat de recrutement ne suffisait pas à établir la validité de la créance, et a prononcé un débet.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le paiement de primes non justifiées, <I _fckxhtmljob="1">cf</I>. CC, 25 septembre 2008, <I _fckxhtmljob="1">AMOTMJ</I>, Recueil 2008, p. 48 ; CC, 28 septembre 2010, <I _fckxhtmljob="1">Payeur général du Trésor</I>, Recueil 2010, p. 81 ; CC, 28 octobre 2010, <EM>CNBA</EM>, Recueil 2010, p. 90 ; CC, 20 juin 2011, <I _fckxhtmljob="1">port autonome de La Rochelle</I>, Recueil 2011, p. 69 ; CC, 7 mars 2012, <I _fckxhtmljob="1">GIP ADETEF</I>, Recueil 2012, p. 44 et CC, 21 décembre 2012, <I _fckxhtmljob="1">CNC</I>, Recueil 2012, p. 173.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00126142.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124947">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124947</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64377</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme BROS, Conseillère référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GAUTIER, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>23/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">25/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">25/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre régionale d'agriculture (CRA) du Centre - Exercices 2005 à 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 101.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Chambre d'agriculture</DESCRIPTEUR>
+<DESCRIPTEUR>Stagiaire</DESCRIPTEUR>
+<DESCRIPTEUR>Indemnité</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Nomenclature des actes</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Exactitude des calculs de liquidation</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Le comptable d'une chambre d'agriculture avait versé à des étudiants des gratifications de stage sans base réglementaire et selon des règles sans cohérence suivant les intéressés. Prétextant de l'absence de nomenclature réglementaire des pièces justificatives dans les chambres d'agriculture et du caractère exécutoire de décisions de l'ordonnateur dont il n'avait pas à vérifier la légalité, le comptable estimait avoir satisfait à ses obligations. La Cour a rappelé que le contrôle des pièces justificatives est une obligation qui s'impose au comptable pour vérifier la validité de la créance et l'exactitude du calcul de liquidation. Elle a donc constitué le comptable en débet.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Par principe, le comptable doit s'assurer que l'ordre de payer est bien accompagné des pièces justificatives prévues par la nomenclature réglementaire des pièces justificatives. Cependant le Conseil d'Etat a rappelé que l'absence de nomenclature spécifique ne dispense pas le comptable d'effectuer les contrôles adéquats relatifs à la dépense, <I style="mso-bidi-font-style: normal">cf.</I> CE, sect., 8 février 2012, n° 340698, publié au recueil Lebon.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le contrôle des pièces justificatives en l'absence de nomenclature règlementaire, <I style="mso-bidi-font-style: normal">cf.</I> CC, 18 juillet 2007, <I style="mso-bidi-font-style: normal">chambre régionale d'agriculture de Corse</I>, Recueil 2007, p. 31 et CC, 1er octobre 2012, <I style="mso-bidi-font-style: normal">INAO</I>, Recueil 2012, p. 146.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la question de la gratification des stagiaires, <I style="mso-bidi-font-style: normal">cf.</I> CC, 20 juillet 2006, <I style="mso-bidi-font-style: normal">GIP ATEN</I>, Recueil 2006 p. 187.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124947.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124944">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124944</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64270</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme BIGAS-REBOUL, Conseillere referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GUEDON, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>23/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">25/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">25/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre d'agriculture de la Guadeloupe (CAG) - Exercices 2005 à 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124944.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124932">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124932</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64208</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. SENHAJI, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GANSER, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>24/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">22/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">22/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Lézignan-Corbières (Aude) - Appel d'un jugement de la chambre régionale des comptes de Languedoc Roussillon.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124932.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124930">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124930</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64183</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. SENHAJI, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GEOFFROY, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>24/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">22/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">22/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Riom (Puy-de-Dôme) - Appel d'un jugement de la chambre régionale des comptes d'Auvergne. </TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 99.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Collectivité locale</DESCRIPTEUR>
+<DESCRIPTEUR>Association</DESCRIPTEUR>
+<DESCRIPTEUR>Cession de créances</DESCRIPTEUR>
+<DESCRIPTEUR>Emprunt</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement libératoire</DESCRIPTEUR>
+<DESCRIPTEUR>Délibération</DESCRIPTEUR>
+<DESCRIPTEUR>Appel du ministère public</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Les comptables successifs d'une commune avaient versé à un établissement de crédit, par accords entre le maire et une association sportive, une fraction des subventions communales allouées à cette association, afin de rembourser un emprunt souscrit par celle-ci. La chambre régionale des comptes avait considéré le procédé régulier. Sur appel du ministère public, la Cour a jugé que les cessions de créances ainsi accordées devaient avoir été acceptées par le conseil municipal et que, faute d'une telle délibération, les paiements effectués se trouvaient dépourvus de caractère libératoire. Les comptables ont donc été constitués en débet.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le fond, cette affaire demeure plutôt originale puisqu'il s'agit d'une cession de créance, régie par le code monétaire et financier. Aux termes de l'article L.313-23 de ce code, «Tout crédit qu'un établissement de crédit consent à une personne morale de droit privé (&#x2026;), peut donner lieu au profit de cet établissement, par la seule remise d'un bordereau, à la cession (&#x2026;) par le bénéficiaire du crédit, de toute créance que celui-ci peut détenir sur un tiers (&#x2026;)». Aux termes de l'article L.313-29, «Sur la demande du bénéficiaire du bordereau, le débiteur peut s'engager à le payer directement : cet engagement est constaté, à peine de nullité, par un écrit intitulé : "Acte d'acceptation de la cession ou du nantissement d'une créance professionnelle". // Dans ce cas, le débiteur ne peut opposer à l'établissement de crédit les exceptions fondées sur ses rapports personnels avec le signataire du bordereau, à moins que l'établissement de crédit, en acquérant ou en recevant la créance, n'ait agi sciemment au détriment du débiteur». C'est en raison de la portée juridique de cette dernière disposition, qui a pour effet de transférer à l'acceptant la dette elle-même -et non pas son seul paiement- que le Conseil d'Etat avait jugé (25 juin 2013, <I style="mso-bidi-font-style: normal">Caisse centrale de crédit mutuel du nord de la France</I>, n° 240679) que seul le conseil municipal avait pouvoir pour accepter la cession d'une créance. La Cour a tiré les conséquences logiques de cette jurisprudence.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124930.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124927">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124927</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64262</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. SENHAJI, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GEOFFROY, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>24/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>07/06/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">22/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">22/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Centre hospitalier spécialisé (CHS) « le Pont Piétin » à Blain (Loire-Atlantique) - Appel d'un jugement de la chambre régionale des comptes des Pays-de-la-Loire.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124927.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124904">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>2ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124904</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64257</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme AUBIN-SAULIERE, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. RIGAUDIAT, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>30/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">21/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">21/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Ecole nationale supérieure des ingénieurs des études et techniques d'armement de Brest (ENSIETA Brest) - Exercice 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124904.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124647">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>3ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124647</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63309</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. FRANGIALLI, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DUCHADEUIL, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/03/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">14/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">14/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Comptes de l'Ecole normale supérieure de Cachan (ENSC) - Exercices 2005 à 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 98.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public scientifique, culturel et professionnel</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement libératoire</DESCRIPTEUR>
+<DESCRIPTEUR>Reversement</DESCRIPTEUR>
+<DESCRIPTEUR>Redressement judiciaire</DESCRIPTEUR>
+<DESCRIPTEUR>Diligences du comptable</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable public avait payé une créance à une personne autre que le créancier. La Cour a donc engagé sa responsabilité en raison du paiement irrégulier, quand bien même il apportait la preuve des diligences qu'il avait effectuées pour réparer son erreur, et l'a constitué en débet.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La responsabilité de l'agent comptable est, dans le cas de figure ici considéré, liée à un paiement non libératoire, qui ne peut être réparé que par le retour dans la caisse publique des sommes qui en ont été indûment extraites. Dès lors, quelque rapides, adéquates et complètes qu'elles aient pu être, les diligences de l'agent comptable en vue du recouvrement des sommes indûment versées, faute de succès, ne suffisent pas à dégager sa responsabilité.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la possibilité pour le comptable de dégager sa responsabilité en cas de paiement irrégulier, <I _fckxhtmljob="1">cf. </I>CC, 25 novembre 2010, <I _fckxhtmljob="1">communauté d'agglomération « Coeur de Seine », </I>Recueil 2010, p. 102 et CC, 19 mars 2012, <I _fckxhtmljob="1">CNIL</I>, Recueil 2012, p. 56.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le caractère libératoire du paiement effectué, <I _fckxhtmljob="1">cf. </I>CC, 30 novembre 2012, <I _fckxhtmljob="1">UAG</I>, Recueil 2012, p. 164.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124647.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124466">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124466</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64169</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEVENON, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DOYELLE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">04/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">04/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Gestion de fait des deniers de l'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Gestion de fait</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124466.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124464">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124464</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64170</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEVENON, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DOYELLE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">04/06/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">04/06/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Gestion de fait des deniers de l'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (ONIRIS).</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Gestion de fait</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 94.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement d'enseignement agricole</DESCRIPTEUR>
+<DESCRIPTEUR>Personnel de recherche</DESCRIPTEUR>
+<DESCRIPTEUR>Personnel enseignant</DESCRIPTEUR>
+<DESCRIPTEUR>Contrat</DESCRIPTEUR>
+<DESCRIPTEUR>Gestion de fait</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La directrice d'une école vétérinaire et deux responsables scientifiques avaient conclu avec plusieurs sociétés de production d'aliments industriels pour animaux de compagnie des conventions de recherche qui avaient été régulièrement honorées de part et d'autre. Cependant, il s'était avéré que les deux responsables en cause avaient fourni, avec les moyens de l'école, hors convention et à l'insu de la directrice, des prestations aux sociétés, qui les avaient rémunérés directement. La Cour a estimé qu'ils avaient ainsi perçu des revenus de l'école et, de ce chef, les a constitués comptables de fait.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124464.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124218">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124218</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">64072</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GAUTIER, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>19/04/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">23/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">23/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre départementale d'agriculture de la Haute-Vienne - Exercices 2004, 2006 à 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124218.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124216">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124216</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63957</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GAUTIER, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>19/04/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">23/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">23/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre départementale d'agriculture de l'Oise - Exercices 2005 et 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124216.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124214">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124214</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63992</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. ORTIZ, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DOYELLE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/05/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">23/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">23/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre d'agriculture de la Guadeloupe (CAG) - Amendes pour retard - Recours en révision.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 90.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Chambre d'agriculture</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Amende pour retard</DESCRIPTEUR>
+<DESCRIPTEUR>Recours en révision</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Procédure</DESCRIPTEUR>
+<DESCRIPTEUR>Chose jugée</DESCRIPTEUR>
+<DESCRIPTEUR>Rejet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable condamné à l'amende avait déposé un recours en révision. Sur invitation du Parquet et suite à la nouvelle rédaction de l'article R. 143-1 du CJF, la Cour a jugé le recours recevable, ce qu'elle ne faisait pas sous l'empire des textes antérieurs. Elle a cependant rejeté le recours au motif que les éléments nouvellement invoqués par le comptable auraient aisément pu être invoqués antérieurement à l'arrêt et n'ont donc pas le caractère de « justifications recouvrées depuis l'arrêt ».]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Par cet arrêt rendu sur conclusions conformes du parquet, la Cour étend le recours en révision aux condamnations à l'amende. Elle est fondée sur la nouvelle rédaction de l'article R. 143-1 du CJF (R.142-15 depuis le 1er avril 2013) issue du décret n° 2008-1397 du 19 décembre 2008, qui ne limite plus expressément un tel recours aux seuls arrêts définitifs rendus sur les comptes des comptables eux-mêmes.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le même sujet, <I style="mso-bidi-font-style: normal">cf.</I> CC, 13 novembre 2012, <I style="mso-bidi-font-style: normal">école vétérinaire de Nantes</I>, Recueil 2012, p. 148.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la procédure ayant conduit la Cour à prononcer une amende pour retard dans la reddition des comptes à l'encontre du comptable de la Chambre d'agriculture, <I style="mso-bidi-font-style: normal">cf.</I> CC, 21 décembre 2011, <I style="mso-bidi-font-style: normal">chambre d'agriculture de la Guadeloupe</I>, Recueil 2011, p. 151.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124214.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124098">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124098</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63905</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. LAIR, Conseiller maitre</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. BRUN-BUISSON, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>07/03/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">16/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">16/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Trésorier-payeur général (TPG) de la Creuse - Exercices 2005 à 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124098.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124014">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124014</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63728</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. MICHELET, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme DEMIER, Conseillère maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>12/04/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">11/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Ploumilliau (Côtes d'Armor) - Appel d'un jugement de la chambre régionale des comptes de Bretagne.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124014.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124013">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124013</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63735</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. UGUEN, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. RITZ, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>11/03/2010</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/06/2010</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">10/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Circonscription d'Alo - Territoire des îles Wallis et Futuna - Exercices 2005 et 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124013.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124012">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124012</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63733</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. UGUEN, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. RITZ, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>11/03/2010</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/06/2010</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">10/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Circonscription d'Uvéa - Territoire des îles Wallis et Futuna - Exercices 2005 et 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124012.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124011">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124011</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63730</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. UGUEN, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. RITZ, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>11/03/2010</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">10/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Territoire de Wallis et Futuna - Exercice 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124011.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124010">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124010</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63737</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. UGUEN, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. RITZ, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>11/03/2010</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/06/2010</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">10/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Circonscription de Sigave (Territoire des îles Wallis et Futuna) - Exercices 2005 et 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124010.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00124009">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00124009</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63648</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme GADRIOT-RENARD, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>29/03/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">10/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Communauté d'agglomération du plateau de Saclay (CAPS) (Essonne) - Appel d'un jugement de la chambre régionale des comptes d'Ile-de-France.
+</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00124009.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123994">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123994</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63651</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. LAFAURE, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>29/03/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">10/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">10/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Touho (Nouvelle Calédonie) - Appel d'un jugement de la chambre territoriale des comptes (CTC) de Nouvelle Calédonie. </TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123994.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123809">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>Chambres réunies</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123809</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63677</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GUILLOT, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DOYELLE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/04/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Gestion de fait des deniers publics du lycée polyvalent régional Camille Sée de Colmar (Haut-Rhin) - Renvoi après cassation.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 89.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public local d'enseignement</DESCRIPTEUR>
+<DESCRIPTEUR>Gestion de fait</DESCRIPTEUR>
+<DESCRIPTEUR>Jugement provisoire</DESCRIPTEUR>
+<DESCRIPTEUR>Notification</DESCRIPTEUR>
+<DESCRIPTEUR>Procédure contradictoire</DESCRIPTEUR>
+<DESCRIPTEUR>Moyen d'ordre public</DESCRIPTEUR>
+<DESCRIPTEUR>Annulation</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Saisie d'un appel du ministère public à l'encontre d'un jugement de non-lieu à déclaration de gestion de fait rendu sous l'empire des procédures antérieures à la loi du 28 octobre 2008, la Cour a constaté qu'une personne destinataire du jugement provisoire, qui la citait à plusieurs reprises sans la déclarer pour autant comptable de fait, n'avait pas été invitée à la séance publique ayant conduit au jugement définitif. Elle a considéré que cette situation portait atteinte au caractère contradictoire de la procédure et, se saisissant d'office de ce moyen d'ordre public, a prononcé l'annulation du jugement entrepris.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La modification de la procédure devant les juridictions financières pose une nouvelle fois les questions liées au caractère contradictoire de la procédure<I style="mso-bidi-font-style: normal">, cf.</I> CC, 3 février 2011, <I style="mso-bidi-font-style: normal">CHS de Compiègne (Oise)</I>, Recueil 2011, p. 19 ; CC, 26 janvier 2012, <I style="mso-bidi-font-style: normal">CHIBT (Hérault)</I>, Recueil 2012, p. 24; CC, 23 juillet 2012, <EM>université de Savoie</EM>, Recueil 2012, p. 122 et les décisions du juge de cassation de 2013 auxquelles ils ont pu donner lieu et que l'on peut consulter sur le site Internet ccomptes.fr. ]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur les obligations de contradiction à l'égard de personnes intéressées à l'instance sans y être parties, <EM>cf.</EM> CC 13 juin 2007, <I style="mso-bidi-font-style: normal">comptable de fait du lycée François Arago de Villeneuve-Saint-Georges - GRETA rattaché au lycée Louis Armand à Nogent-sur-Marne</I>, Recueil 2007, p. 37.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[A la suite de cet arrêt, intervenu après cassation d'un précédent par le Conseil d'Etat (5 décembre 2011), ont été rendus en 2012 d'abord un arrêt provisoire de déclaration de gestion de fait à l'encontre de Mme X, puis, le 21 décembre 2012, un arrêt définitif confirmant la gestion de fait et renvoyant le jugement du compte à produire à la chambre régionale des comptes.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123809.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123803">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>Chambres réunies</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123803</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63691</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme LEVY-ROSENWALD, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DOYELLE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/04/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/05/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/05/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Lycée polyvalent Vauvenargues d'Aix-en-Provence - Exercices 1999 à 2004.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 85.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public local d'enseignement</DESCRIPTEUR>
+<DESCRIPTEUR>Procédure</DESCRIPTEUR>
+<DESCRIPTEUR>Acte interruptif de prescription</DESCRIPTEUR>
+<DESCRIPTEUR>Appel de l'ordonnateur</DESCRIPTEUR>
+<DESCRIPTEUR>Décharge du comptable</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Le proviseur d'un lycée avait fait appel du jugement par lequel une chambre régionale des comptes avait déchargé, en 2006, le comptable de sa gestion pendant les exercices 1999 à 2004. En 2007, la Cour avait infirmé le jugement et renvoyé l'affaire devant la chambre régionale des comptes, ce que le Conseil d'État avait censuré, en 2009, pour méconnaissance de l'effet dévolutif de l'appel. En 2011, la Cour avait donc repris le dossier et rendu un arrêt provisoire prononçant diverses injonctions à l'égard du comptable. Au cours de la contradiction introduite par cet arrêt provisoire, le comptable avait argué que seule la notification du premier acte de la mise en jeu de la responsabilité d'un comptable interrompt le délai de prescription ouvert par le dépôt des comptes et qu'en l'espèce, ce premier acte était la notification de cet arrêt provisoire. Sur conclusions conformes du Parquet, la Cour a jugé que le dépôt d'une requête en appel avait la nature d'une action en justice interruptive de la prescription et que, de ce fait, l'appel du proviseur avait interrompu la prescription.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la même affaire, <I style="mso-bidi-font-style: normal">cf. lycée polyvalent Vauvenargues à Aix-en-Provence (Bouches-du-Rhône)</I>,<I style="mso-bidi-font-style: normal"> </I>CE, 27 juillet 2009, Recueil 2009, p. 88 et CDBF, 4 avril 2011, Recueil 2011, p. 155.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123803.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123319">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123319</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">59366</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. MICHELET, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>15/04/2010</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>30/09/2010</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">12/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">12/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Communauté d'agglomération de Saint-Malo - Appel d'un jugement de la chambre régionale des comptes de Bretagne.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123319.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123316">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123316</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63537</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mlle BALDACCHINO, Auditrice</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. SENHAJI, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">12/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">12/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Département des Yvelines - Appel d'un jugement de la chambre régionale des comptes (CRC) d'Ile-de-France. </TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 83.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Département</DESCRIPTEUR>
+<DESCRIPTEUR>Association</DESCRIPTEUR>
+<DESCRIPTEUR>Subvention</DESCRIPTEUR>
+<DESCRIPTEUR>Convention</DESCRIPTEUR>
+<DESCRIPTEUR>Logement</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un payeur départemental avait été constitué en débet par une chambre régionale des comptes pour avoir payé des subventions de plus de 23000 € au profit d'une agence départementale d'information sur le logement (ADIL) sans disposer de la convention légalement obligatoire. A l'appui de son appel, l'intéressé rappelait que la loi du 12 avril 2000 dispensait de cette obligation les organismes bénéficiant de subventions pour la construction, l'acquisition et l'amélioration des logements locatifs sociaux. La Cour a rejeté le moyen, au motif que l'association concernée, principalement investie d'une mission d'information, n'appartenait pas à cette catégorie d'organismes.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la nomenclature des pièces justificatives applicables pour les contrats de subvention d'un montant supérieur à 23 000 €, <I style="mso-bidi-font-style: normal">cf.</I> CC, 18 mars 2010, <I style="mso-bidi-font-style: normal">commune de Pacé</I>, Recueil 2010, p. 23 et CC, 23 mai 2011, <I style="mso-bidi-font-style: normal">commune de Rueil Malmaison</I>, Recueil 2011, p. 142 et CC, 2 février 2012, <I style="mso-bidi-font-style: normal">commune d'Auby</I>, Recueil 2012, p. 35 et <I style="mso-bidi-font-style: normal">commune de Lingolsheim</I>, Recueil 2012, p. 38.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123316.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123314">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123314</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63104</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mlle BALDACCHINO, Auditrice</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GEOFFROY, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">12/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">12/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Romans-sur-Isère (Drôme) - Appel d'un jugement de la chambre régionale des comptes (CRC) de Rhône-Alpes. </TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123314.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123312">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123312</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63102</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. BRANA, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GEOFFROY, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">12/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">12/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Syndicat mixte du Val de Sambre (SMVS) à Maubeuge (Nord) - Appel d'un jugement de la chambre régionale des comptes (CRC) du Nord-Pas-de-Calais.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 81.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Syndicat mixte</DESCRIPTEUR>
+<DESCRIPTEUR>Dépense d'investissement</DESCRIPTEUR>
+<DESCRIPTEUR>Dépense de fonctionnement</DESCRIPTEUR>
+<DESCRIPTEUR>Imputation budgétaire</DESCRIPTEUR>
+<DESCRIPTEUR>Appel du comptable</DESCRIPTEUR>
+<DESCRIPTEUR>Remise gracieuse</DESCRIPTEUR>
+<DESCRIPTEUR>Rejet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait été constitué en débet par une chambre régionale des comptes pour avoir imputé en section de fonctionnement des dépenses d'investissement. En appel, le comptable faisait valoir que, postérieurement au jugement, il avait obtenu de l'ordonnateur les rectifications d'imputation nécessaires. Tout en observant que ce résultat serait de nature à appuyer une demande de remise gracieuse, la Cour a rejeté la requête en rappelant que la responsabilité d'un comptable s'apprécie à la date des paiements.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'appréciation de la responsabilité du comptable au moment des faits invoqués, <I style="mso-bidi-font-style: normal">cf.</I> CC, 9 mars 2011, <I style="mso-bidi-font-style: normal">SIRTAVA</I>, Recueil 2011, p. 32 et CC, 12 avril 2012, <I style="mso-bidi-font-style: normal">commune de Lingolsheim</I>, Recueil 2012, p. 38.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123312.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123195">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123195</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62713</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DOS REIS, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LAIR, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>06/07/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">04/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">04/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Direction des services fiscaux (DSF) de la Moselle - Service des impôts des entreprises centralisateur (SIEC) de Metz-Ouest - Exercice 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123195.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123190">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123190</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62712</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DOS REIS, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LAIR, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>06/07/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">04/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">04/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Direction des services fiscaux (DSF) de la Moselle - Service des impôts des entreprises centralisateur (SIEC) de Metz-Ouest - Exercice 2003.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123190.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123111">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123111</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63509</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEVENON, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme DARRAGON, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/03/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Groupement d'intérêt public « Atelier technique des espaces naturels » (GIP ATEN) - Exercice 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure </SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123111.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123102">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123102</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63459</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. PETEL, Conseiller maitre</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. AULIN, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/03/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/04/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/04/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre régionale d'agriculture (CRA) des Pays de la Loire - Exercices 2005 à 2008.
+</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123102.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00123030">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00123030</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63025</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEROND, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LAFAURE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>02/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">29/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">29/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Syndicat intercommunal d'énergie des communes de Flandres (SIECF) (Nord) - Appel d'un jugement de la chambre régionale des comptes (CRC) de Nord-Pas-de-Calais.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 78.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Syndicat intercommunal</DESCRIPTEUR>
+<DESCRIPTEUR>Frais de déplacement</DESCRIPTEUR>
+<DESCRIPTEUR>Contrôle</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait été constitué en débet par une chambre régionale des comptes pour avoir remboursé à un élu des frais de déplacement sans disposer de la délibération en application de laquelle les déplacements avaient été effectués. La Cour a confirmé le jugement en estimant qu'il appartenait au comptable, lorsqu'il est en présence d'un cas non prévu par la nomenclature des pièces justificatives des dépenses, d'exiger à l'appui des paiements les documents qui lui permettent d'effectuer les contrôles qui lui incombent, en raisonnant, comme la réglementation le prévoit, par analogie.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'obligation de contrôle des pièces justificatives, <I style="mso-bidi-font-style: normal">cf. </I>CC, 24 novembre 2010, <I style="mso-bidi-font-style: normal">Parc national du Mercantour</I>, Recueil 2010, p. 98; CC, 2 février 2012, <I style="mso-bidi-font-style: normal">commune de Jarny</I>, Recueil 2012, p. 32 et CC, 28 décembre 2012, <EM>Grand port maritime de Nantes Saint-Nazaire</EM>, Recueil 2012, p. 183.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[A côté des indemnités ordinaires que le conseil municipal peut voter pour le maire, les adjoints investis de délégations et, si tous les adjoints ont une délégation, les autres conseillers municipaux délégués, l'article L.2123-18 du CGCT prévoit que «Les fonctions de maire, d'adjoint, de conseiller municipal, de président et membre de délégation spéciale donnent droit au remboursement des frais que nécessite l'exécution des mandats spéciaux». On appelle mandats spéciaux les fonctions diverses qui ne résultent pas immédiatement de la position de maire, d'adjoint délégué, etc. Dans ce cas, le mandat spécial doit faire l'objet d'une délibération du conseil municipal qui, par elle-même, ouvre droit aux remboursements de frais (et qui, en l'espèce, manquait).]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00123030.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122709">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122709</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63137</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DEMIER, Conseillère maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LAFAURE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>26/01/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">19/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">19/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Institut français de Port-au-Prince - Exercices 2002 à 2006.
+</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 65.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement culturel à l'étranger</DESCRIPTEUR>
+<DESCRIPTEUR>Mandat de paiement</DESCRIPTEUR>
+<DESCRIPTEUR>Qualité de l'ordonnateur</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La responsabilité du comptable d'un institut français à l'étranger était engagée pour avoir payé plusieurs mandats non signés par l'ordonnateur. Le comptable n'ayant été capable de produire ni les justificatifs manquants, ni la preuve du reversement des paiements irréguliers, la Cour l'a constitué débiteur.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le même sujet, <I _fckxhtmljob="1">cf.</I> CRC, 31 janvier 2006, <I _fckxhtmljob="1">centre hospitalier de Bretagne Atlantique</I>, Recueil 2006, p. 4.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122709.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122704">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122704</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63128</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DEMIER, Conseillère maître</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LAFAURE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>26/01/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">19/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">19/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commission nationale de l'informatique et des libertés (CNIL) - Exercices 2007 à 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 56.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etat</DESCRIPTEUR>
+<DESCRIPTEUR>Autorité administrative indépendante</DESCRIPTEUR>
+<DESCRIPTEUR>Indemnité</DESCRIPTEUR>
+<DESCRIPTEUR>Frais de déplacement</DESCRIPTEUR>
+<DESCRIPTEUR>Frais de séjour</DESCRIPTEUR>
+<DESCRIPTEUR>Absence de base juridique</DESCRIPTEUR>
+<DESCRIPTEUR>Hiérarchie des normes juridiques</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement indu</DESCRIPTEUR>
+<DESCRIPTEUR>Reversement</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR>
+<DESCRIPTEUR>Décharge du comptable</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La responsabilité du comptable d'une autorité administrative indépendante était recherchée pour avoir payé des frais de mission en dépassement des montants prévus par la réglementation applicable et, notamment, au président de l'autorité, quand il venait à Paris ès qualités, ainsi qu'à une assistante parlementaire ne faisant pas partie du personnel de l'autorité. Elle était par ailleurs recherchée en raison d'indemnités versées sans texte au même président. La Cour a pris soin de ne pas fonder sa décision sur le caractère irrégulier du versement de frais de missions au président et à l'assistante, dès lors que le président n'occupait pas un emploi permanent obligeant à résider au siège, et que le comptable n'était pas en mesure de savoir si l'assistante était ou non membre du personnel puisqu'il n'en assurait pas la paye. Elle a néanmoins constitué le comptable en débet pour la totalité des frais de missions, car les conditions de remboursement de droit commun n'ont pas été respectées. Et faute pour le comptable d'être en mesure de calculer ce qu'il aurait dû réglementairement payer, le montant total des paiements effectués lui a été imputé. En revanche, le président ayant reversé les indemnités indues, la Cour n'a pas prononcé de débet sur ce point.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le même sujet, <I _fckxhtmljob="2">cf. </I>CC, 11 janvier 2011, <I _fckxhtmljob="2">référé n° 59734</I>, Recueil 2011, p. 186]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur les frais de personnels dépourvus de base juridique, <I _fckxhtmljob="2">cf.</I> CC, 1er mars 2011, <I _fckxhtmljob="2">référé n° 60195</I>, Recueil 2011, p. 192 ; CPG, 23 septembre 2011, Recueil 2011, p. 222 et CC, 21 décembre 2012, <I _fckxhtmljob="2">CNC</I>, Recueil 2012, p. 173.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la possibilité pour le comptable de dégager sa responsabilité par le constat d'un reversement par le bénéficiaire du paiement indu , <I _fckxhtmljob="2">cf</I>. CC, 25 novembre 2010, <I _fckxhtmljob="2">communauté d'agglomération « Coeur de Seine »</I>, Recueil 2010, p. 102 et CC, 7 mars 2012, <I _fckxhtmljob="2">GIP ADETEF</I>, Recueil 2012, p. 44.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122704.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122462">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122462</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63091</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEVENON, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GUEDON, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>01/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">08/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">08/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre d'agriculture de la Guyane (CAG) - Exercices 2004 à 2007 au 23 septembre.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 55.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Chambre d'agriculture</DESCRIPTEUR>
+<DESCRIPTEUR>Manquant en deniers ou en valeur</DESCRIPTEUR>
+<DESCRIPTEUR>Participation financière</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[La responsabilité du comptable d'une chambre d'agriculture était mise en cause en raison de l'impossibilité où il était de produire des titres de participation figurant au bilan. Rappelant que la conservation des fonds et valeurs fait partie des obligations qui incombent au comptable et que la perte de titres est constitutive d'un manquant en valeurs, la Cour a prononcé le débet du comptable.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Généralement, les décisions portant sur des valeurs concernent soit des valeurs inactives, soit des créances. Ici, il s'agit de titres de participation figurant parmi les immobilisations, ce qui est une espèce assez rare.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la perte de pièces justificatives constitutive d'un manquant en valeur, <I style="mso-bidi-font-style: normal">cf.</I> CC, 24 janvier 2012, <I style="mso-bidi-font-style: normal">CBCM auprès des ministères économiques et financiers</I>, Recueil 2012, p. 19.Sur la garde et la conservation par le comptable des fonds et valeurs appartenant ou confiés aux organismes publics, <I style="mso-bidi-font-style: normal">cf. </I>article 11 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122462.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122460">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122460</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63067</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. RESPLANDY-BERNARD, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DOYELLE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>01/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">08/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">08/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Météo France - Exercices 2006 à 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 52.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public administratif</DESCRIPTEUR>
+<DESCRIPTEUR>Subvention</DESCRIPTEUR>
+<DESCRIPTEUR>Contrôle financier</DESCRIPTEUR>
+<DESCRIPTEUR>Visa préalable</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait procédé aux paiements de contributions et de subventions sans visa préalable du contrôleur financier. En défense il exposait que le visa n'était pas nécessaire dans la mesure où les paiements mis en cause résultaient de conventions pluriannuelles elles-mêmes visées par le contrôleur. La Cour a admis l'argument pour autant que le montant des paiements annuels résultait mécaniquement des conventions. De ce fait, elle a limité le débet à une subvention dont seul le principe était prévu par une convention, mais non le montant ou le moyen de le calculer.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'absence du visa préalable du contrôleur financier, <I style="mso-bidi-font-style: normal">cf. </I>CC, 23 décembre 2010, <I style="mso-bidi-font-style: normal">Parc national de Port-Cros, </I>Recueil 2010, p. 118<I style="mso-bidi-font-style: normal"> </I>et<I style="mso-bidi-font-style: normal"> </I>CC, 26 octobre 2011, <I style="mso-bidi-font-style: normal">Parc national de la Réunion, </I>Recueil 2011, p. 113.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122460.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122455">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>3ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122455</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63131</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. MONTARNAL, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DUCHADEUIL, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>13/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">08/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">08/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Gestion de fait des deniers du Musée national du sport (MNS).</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Gestion de fait</SOLUTION>
+<SOLUTION>Amende</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 51.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public administratif</DESCRIPTEUR>
+<DESCRIPTEUR>Gestion de fait</DESCRIPTEUR>
+<DESCRIPTEUR>Deniers publics</DESCRIPTEUR>
+<DESCRIPTEUR>Caractère occulte</DESCRIPTEUR>
+<DESCRIPTEUR>Ligne de compte</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Une personne déclarée comptable de fait d'un établissement public avait produit un compte retraçant plus de dépenses allouées par le juge que de recettes admises. La Cour a ramené le montant des dépenses de la gestion occulte à celui des recettes auxquelles elle avait reconnu la qualité de fonds publics.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la procédure ayant conduit à déclarer l'ancien directeur général du musée national du sport comptable de fait, <I _fckxhtmljob="1">cf.</I> CC, 26 mai 2011, <I _fckxhtmljob="1">Musée national du sport (MNS)</I>, Recueil 2011, p. 54.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'opportunité de ramener le montant des dépenses au montant des recettes ayant seules la qualité de fonds publics, <I _fckxhtmljob="1">cf</I>. Descheemaeker, <I _fckxhtmljob="1">Gestion de fait</I>, LexisNexis n° 1265, § 170.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122455.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122454">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>3ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122454</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63139</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. SABBE, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. DUCHADEUIL, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>13/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">08/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">08/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Opéra national de Paris (ONP) - Exercices 1998 à 2004.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122454.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122452">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122452</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63089</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. LE MENE, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GUEDON, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>01/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">08/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">08/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre d'agriculture de la Guyane (CAG) - Exercices 2005 à 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Amende</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 50.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Chambre d'agriculture</DESCRIPTEUR>
+<DESCRIPTEUR>Reddition des comptes</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Amende pour retard</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Une amende était requise contre un comptable pour ne pas avoir respecté les délais de production des comptes de plusieurs exercices. Le comptable ayant justifié le retard d'une partie des comptes par la résorption des retards accumulés dans le dépôt des comptes des exercices précédents, la Cour a fait varier l'amende prononcée en fonction des justifications produites et en tenant compte des circonstances de l'affaire.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la reddition tardive des comptes et les amendes de retard, <I style="mso-bidi-font-style: normal">cf.</I> CC, 4 avril 2008, <I style="mso-bidi-font-style: normal">FNOPA</I>, Recueil 2008, p. 14; CC, 17 février 2010, <I style="mso-bidi-font-style: normal">chambre régionale d'agriculture des Pays de la Loire</I>, Recueil 2010, p. 12 et CC, 21 décembre 2011, <I style="mso-bidi-font-style: normal">chambre d'agriculture de Guadeloupe</I>, Recueil 2011, p. 151.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122452.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122434">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122434</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63134</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. JOURDAIN, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme FRADIN, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">07/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">07/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Comptes de l'Autorité de contrôle des assurances et des mutuelles (ACAM) - Exercices 2006 et 2007.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 47.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Autorité administrative indépendante</DESCRIPTEUR>
+<DESCRIPTEUR>Ministère</DESCRIPTEUR>
+<DESCRIPTEUR>Rémunération</DESCRIPTEUR>
+<DESCRIPTEUR>Personnel mis à disposition</DESCRIPTEUR>
+<DESCRIPTEUR>Convention</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement indu</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[L'agent comptable d'une autorité administrative indépendante avait continué de verser sa rémunération à un agent mis à la disposition du cabinet d'un ministre, sans disposer de la convention légalement prévue. Observant que ce comptable n'ignorait pas la réalité du travail de cet agent, la Cour l'a constitué en débet pour avoir, en violation de l'ensemble des prescriptions réglementaires, effectué des paiements irréguliers.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le contrôle de la production des justifications exigée à l'article 13 du RGCP, <I _fckxhtmljob="1">cf.</I> CC, 23 juillet 2008, <EM>AFII, </EM>Recueil 2008, p. 41]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la mise à disposition et la rémunération d'agents publics, <I _fckxhtmljob="1">cf.</I> CC, 29 novembre 2007, <I _fckxhtmljob="1">collectivité d'outre-mer de Polynésie </I><EM>française</EM>, Recueil 2007, p. 73 et CC, 30 mai 2011, <I _fckxhtmljob="1">CPG</I>, Recueil 2011, p. 204.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur une affaire similaire, <I _fckxhtmljob="1">cf.</I> CC, 14 décembre 2006, <EM>Parc national de Port-Cros</EM>, Recueil 2006, p. 33.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122434.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122433">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122433</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63133</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. JOURDAIN, Conseiller referendaire</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme FRADIN, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">07/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">07/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Comptes de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance (CCAMIP) - Exercices 2004 et 2005.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122433.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122431">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122431</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63116</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. JOURDAIN, Conseiller referendaire</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme MORELL, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>03/02/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">07/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">07/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Comptes du groupement d'intérêt public « Assistance au développement des échanges en technologies économiques et financières » (GIP ADETEF) - Exercices 2007 et 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 44.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Groupement d'intérêt public</DESCRIPTEUR>
+<DESCRIPTEUR>Prime</DESCRIPTEUR>
+<DESCRIPTEUR>Absence de base juridique</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Contrôle du comptable public</DESCRIPTEUR>
+<DESCRIPTEUR>Reversement</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Le comptable d'un groupement d'intérêt public avait versé, sur décision du président et sans le nécessaire visa préalable du contrôleur d'Etat, des primes dépourvues de fondement réglementaire. Outre divers arguments circonstanciels, il invoquait en défense le «remboursement» partiel, par des personnes autres que les bénéficiaires des paiements, des sommes indûment versées. Considérant l'irrégularité du paiement et rejetant le remboursement par un tiers, la Cour constitue le comptable en débet de la totalité de la somme indûment payée.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le paiement de primes dépourvues de base légale, <I>cf</I>. CC, 25 septembre 2008, <I>AMOTMJ</I>, Recueil 2008, p. 48 et CC, 28 septembre 2010, <I>payeur général du Trésor</I>, Recueil 2010, p. 81 et CC, 20 juin 2011, <I>port autonome de La Rochelle</I>, Recueil 2011, p. 69. Au-delà de cette irrégularité, qui ne pouvait justifier un débet que si la décision mentionnait explicitement ou implicitement les textes qu'elle violait, l'absence du visa du contrôleur d'État constituait à elle seule une irrégularité irréfragable.  ]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la prise en compte d'un remboursement en substitution ou en réduction d'un débet dès lors qu'il émane du bénéficiaire du paiement indu, <I>cf.</I> CC, 25 novembre 2010, <I>communauté d'agglomération « Coeur de Seine »</I>, Recueil 2010, p. 102 et CC, 14 juin 2012, <I>ENSC</I>, Recueil 2012, p. 98.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122431.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00122428">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00122428</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">63110</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme MOATI, Conseiller maitre</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme DOS REIS, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>24/01/2012</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">07/03/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">07/03/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Trésorier-payeur général (TPG) du Tarn - Exercices 2006 et 2008.
+</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00122428.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121711">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121711</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62408</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme MOATI, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CHOUVET, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>06/07/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">13/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">13/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Trésorier-payeur général (TPG) des Deux-Sèvres - Exercices 2004, 2006 et 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure </SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121711.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121709">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121709</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62887</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. CHAMPOMIER, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CHOUVET, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>13/09/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">13/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">13/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Direction départementale des finances publiques de La Manche - Service des impôts des entreprises (SIE) de Carentan - Exercices 2003 à 2006.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121709.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121531">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121531</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62833</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GEOFFROY, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>15/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Lingolsheim (Bas-Rhin) - Appel d'un jugement de la chambre régionale des comptes d'Alsace.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure </SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 38.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Commune</DESCRIPTEUR>
+<DESCRIPTEUR>Association</DESCRIPTEUR>
+<DESCRIPTEUR>Subvention</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Convention</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Infirmation</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Une chambre régionale des comptes avait considéré comme régulier le paiement d'une subvention sans que la convention légalement obligatoire ait été produite à l'appui du mandat. La chambre avait, en effet, estimé, d'une part, que d'autres pièces apportaient les renseignements permettant au comptable d'exercer son contrôle et, d'autre part, que les irrégularités avaient pris fin à l'initiative du comptable. Sur appel du ministère public, la Cour a rappelé que la cessation des irrégularités était sans effet sur la mise en jeu de la responsabilité d'un comptable, celle-ci s'appréciant à la date des paiements, et que la production de la convention relevait d'une obligation légale confirmée par la nomenclature des pièces justificatives, sans que puisse y suppléer la production d'autres documents, quelles que soient les informations qui y figurent.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la nomenclature des pièces justificatives applicables pour les contrats de subvention d'un montant supérieur à 23 000 €, <I style="mso-bidi-font-style: normal">cf</I>. CC, 18 mars 2010, <I style="mso-bidi-font-style: normal">commune de Pacé (Ille-et-Vilaine), </I>Recueil 2010, p. 23; CC, 23 mai 2011, <I style="mso-bidi-font-style: normal">commune de Rueil Malmaison (Hauts-de-Seine)</I>, Recueil 2011, p. 142 ; CC, 2 février 2012, <I style="mso-bidi-font-style: normal">commune d'Auby, </I>Recueil 2012, p. JF00121514 et CC, 12 avril 2012, <I style="mso-bidi-font-style: normal">département des Yvelines</I>, Recueil 2012, p. 83.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'appréciation de la responsabilité du comptable au moment des faits invoqués, <I style="mso-bidi-font-style: normal">cf.</I> CC, 9 mars 2011, <I style="mso-bidi-font-style: normal">SIRTAVA</I>, Recueil 2011, p. 32, CC, 21 juillet 2011, <I style="mso-bidi-font-style: normal">département de la Dordogne</I>, Recueil 2011, p. 89 et CC, 12 avril, <I style="mso-bidi-font-style: normal">SMVS</I>, Recueil 2012, p. 81 .]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121531.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121528">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121528</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62812</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme CORNETTE, Conseiller maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme GADRIOT-RENARD, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>15/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Gérardmer - Appel d'un jugement de la chambre régionale des comptes (CRC) de Lorraine.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121528.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121514">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121514</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62822</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mlle BALDACCHINO, Auditrice</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>15/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune d'Auby - Appel d'un jugement de la chambre régionale des comptes (CRC) du Nord-Pas-de-Calais. </TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 35.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Commune</DESCRIPTEUR>
+<DESCRIPTEUR>Association</DESCRIPTEUR>
+<DESCRIPTEUR>Subvention</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Convention</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait été constitué débiteur par une chambre régionale des comptes pour avoir effectué le paiement de subventions d'une commune à une association sans disposer de la convention légalement obligatoire entre la commune et l'association. Il faisait appel du jugement en faisant valoir qu'il avait obtenu, postérieurement au jugement, le reversement des sommes irrégulièrement payées. Se situant au temps des faits, la Cour a considéré que le comptable n'avait pas correctement rempli ses obligations de contrôle. Elle a donc confirmé le jugement entrepris tout en notant que le montant du reversement devait venir en déduction du débet.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la nomenclature des pièces justificatives applicables pour les contrats de subvention d'un montant supérieur à 23000 €, <EM>cf</EM>. CC, 18 mars 2010, <EM>commune de Pacé, </EM>Recueil 2010, p. 23 et CC, 23 mai 2011, <EM>commune de Rueil Malmaison</EM>, Recueil 2011, p. 142.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121514.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121505">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121505</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62814</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme BOUTEREAU-TICHET, Conseillère référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Collège du Lignon au Chambon-sur-Lignon - Appel d'un jugement de la chambre régionale des comptes (CRC) d'Auvergne.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121505.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121503">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121503</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62815</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme BOUTEREAU-TICHET, Conseillère référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Collège Boris Vian à Retournac - Appel d'un jugement de la chambre régionale des comptes (CRC) d'Auvergne.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121503.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121499">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121499</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62816</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme BOUTEREAU-TICHET, Conseillère référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Collège de La Lionchère à Tence - Appel d'un jugement de la chambre régionale des comptes (CRC) d'Auvergne.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121499.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121496">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121496</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62824</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme BOUTEREAU-TICHET, Conseillère référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Commune de Jarny (Meurthe-et-Moselle) - Appel d'un jugement de la chambre régionale des comptes (CRC) de Lorraine.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 32.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Commune</DESCRIPTEUR>
+<DESCRIPTEUR>Appel du comptable</DESCRIPTEUR>
+<DESCRIPTEUR>Appel incident</DESCRIPTEUR>
+<DESCRIPTEUR>Irrecevabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Marché public</DESCRIPTEUR>
+<DESCRIPTEUR>Contrat</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait été constitué en débet pour avoir payé des honoraires à un avocat sans disposer de justifications suffisantes, une convention mentionnée dans la facture d'honoraires n'ayant pas été produite à l'appui du paiement. En appel, le comptable faisait valoir que les prestations facturées ne nécessitaient pas la conclusion d'un contrat. La Cour a écarté cette argumentation en jugeant que, dès lors qu'elle était mentionnée dans la facture d'honoraires, la convention devait être produite. En conséquence, le jugement a été confirmé et l'appel rejeté. Présenté comme un appel incident, l'appel avait étéau préalable requalifié en appel principal par la Cour.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'appel incident, <I style="mso-bidi-font-style: normal">cf.</I> CC, 20 mars 1997, <I style="mso-bidi-font-style: normal">commune et centre communal d'action sociale de Digne-</I><I style="mso-bidi-font-style: normal">les-Bains (Alpes-de-Haute-Provence), </I>Recueil 1997, p. 33.Sur la nomenclature des pièces justificatives applicables, <I style="mso-bidi-font-style: normal">cf</I>. CC, 24 novembre 2010, <I style="mso-bidi-font-style: normal">Parc national du Mercantour</I>, Recueil 2010, p. 98; CC, 28 décembre 2012, <EM>Grand port maritime de Nantes Saint-Nazaire</EM>, Recueil 2012, p. 183 et CE, 8 février 2012, <I style="mso-bidi-font-style: normal">CCAS de Polaincourt</I>, Recueil 2012, p. 203. ]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121496.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121447">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121447</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62708</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. PEHAU, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>15/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">02/02/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">02/02/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Centre hospitalier de Jonzac (Charente-Maritime) - Appel d'un jugement de la chambre régionale des comptes (CRC) de Poitou-Charentes.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121447.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121191">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121191</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62533</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DEMIER, Conseillère maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. GEOFFROY, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>17/11/2011</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>23/11/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">26/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">26/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Centre hospitalier intercommunal du Bassin de Thau (Hérault) (CHIBT). Appel d'un jugement de la chambre régionale des comptes de Languedoc-Roussillon. </TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 24.Gestion &amp; Finances publiques, n° 3-4, 3/4-2014, p. 103-106.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etablissement public hospitalier</DESCRIPTEUR>
+<DESCRIPTEUR>Jugement des comptes</DESCRIPTEUR>
+<DESCRIPTEUR>Réquisitoire</DESCRIPTEUR>
+<DESCRIPTEUR>Procédure contradictoire</DESCRIPTEUR>
+<DESCRIPTEUR>Formation des griefs</DESCRIPTEUR>
+<DESCRIPTEUR>Appel de l'ordonnateur</DESCRIPTEUR>
+<DESCRIPTEUR>Formation de jugement</DESCRIPTEUR>
+<DESCRIPTEUR>Parties à l'instance</DESCRIPTEUR>
+<DESCRIPTEUR>Annulation</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un centre hospitalier avait interjeté appel du jugement d'une chambre régionale des comptes au motif que celui-ci n'avait pas tenu compte de ses observations mettant en cause le comptable au-delà des réquisitions initiales du ministère public. La Cour a considéré qu'en refusant de diligenter une instruction sur ces griefs nouveaux, la chambre régionale avait méconnu le caractère contradictoire de la procédure. Elle a donc annulé le jugement entrepris, sur conclusions contraires du Parquet.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Cette affaire soulève le problème de la nature de l'intervention de l'ordonnateur dans la procédure de jugement des comptes depuis la réforme de 2008, et plus généralement la question de ce que doit faire le juge s'il constate, directement ou sur intervention de l'ordonnateur, que le ministère public a requis sur la base d'un rapport d'examen des comptes insuffisamment approfondi. Le code des juridictions financières ne prévoit en effet, dans sa rédaction actuelle, aucune possibilité pour le juge de demander un supplément d'information comme le prévoient, par exemple, le code pénal ou le code de justice administrative.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur une affaire similaire, <I style="mso-bidi-font-style: normal">cf.</I> CC, 3 février 2011, <I style="mso-bidi-font-style: normal">centre hospitalier de Compiègne</I>, Recueil 2011, p. 19. La Cour s'éloigne de la solution retenue dans ce dernier arrêt en affirmant que les dispositions du code des juridictions financières n'autorisaient pas la chambre régionale à mettre le comptable en débet au titre d'éléments dont elle n'avait pas été saisie par le ministère public.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Le Conseil d'Etat a annulé le présent arrêt ainsi que celui relatif au <I style="mso-bidi-font-style: normal">centre hospitalier de Compiègne</I> par deux décisions n° 357938 et 347536 du 5 avril 2013, à publier au Lebon (et qui le seront dans le recueil 2013 des juridictions financières).]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'annulation d'une ordonnance rendue irrégulièrement (c'est à dire sans ou contre l'avis du parquet), <I style="mso-bidi-font-style: normal">cf.</I> CC, 28 octobre 2010, <I style="mso-bidi-font-style: normal">commune de Bourg-sur-Gironde</I>, Recueil 2010, p. 91.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la procédure contradictoire, <I style="mso-bidi-font-style: normal">cf. </I>CC, 15 décembre 2011, <I style="mso-bidi-font-style: normal">commune de Rueil Malmaison (Hauts-de-Seine),</I> Recueil 2011, p. 142.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121191.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121190">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121190</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62879</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GEOFFROY, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>17/11/2011</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>28/11/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">26/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">26/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Communauté de communes des Côtes de Combrailles (Puy-de-Dôme) - Appel d'un jugement de la chambre régionale des comptes (CRC) d'Auvergne rendu le 15 avril 2011.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121190.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121189">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>4ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121189</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62810</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GEOFFROY, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CAZANAVE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">26/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">26/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Office de communication et d'information (OCID) - Gestion de fait des deniers du département des Bouches-du-Rhône - Question prioritaire de constitutionnalité (QPC).</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Gestion de fait</SOLUTION>
+<SOLUTION>Amende</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 23.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Département</DESCRIPTEUR>
+<DESCRIPTEUR>Association</DESCRIPTEUR>
+<DESCRIPTEUR>Gestion de fait</DESCRIPTEUR>
+<DESCRIPTEUR>Juge financier</DESCRIPTEUR>
+<DESCRIPTEUR>Amende</DESCRIPTEUR>
+<DESCRIPTEUR>Ligne de compte</DESCRIPTEUR>
+<DESCRIPTEUR>Question prioritaire de constitutionnalité</DESCRIPTEUR>
+<DESCRIPTEUR>Appel du comptable de fait</DESCRIPTEUR>
+<DESCRIPTEUR>Rejet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[A l'occasion d'un appel interjeté contre un jugement de première instance fixant la ligne de compte, un comptable de fait avait soulevé une question prioritaire de constitutionnalité concernant les textes relatifs au prononcé des amendes par le juge des comptes. La Cour a constaté, en l'espèce, que les dispositions mises en cause n'étaient applicables ni au litige - les amendes prononcées étant passées en force de chose jugée - ni à la procédure - qui concernait la fixation de la ligne de compte. En conséquence, elle a décidé de ne pas transmettre la question au Conseil d'Etat.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la même affaire, <I style="mso-bidi-font-style: normal">cf.</I> <I style="mso-bidi-font-style: normal">OCID</I>, CC ; 17 juin 1999, Recueil 1999, p. 43; CC, 27 juillet 2005, Recueil 2005, p. 156; CC, 17 décembre 2009,<I style="mso-bidi-font-style: normal"> </I>Recueil 2009, p. 63 et CC, 30 mai 2011, Recueil 2011, p. 177.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur une QPC soulevée à l'encontre de textes relatifs à la gestion de fait, <I style="mso-bidi-font-style: normal">cf. </I>CE, 4 mars 2011, <I style="mso-bidi-font-style: normal">collectivité d'outre-mer de Polynésie française</I>, Recueil 2011, p. 171 et CC, 5 mai 2011, <I style="mso-bidi-font-style: normal">office du tourisme de l'Alpe d'Huez (OTAH)</I>, Recueil 2011, p. 47 et CE, 8 octobre 2012, <I style="mso-bidi-font-style: normal">FOSA</I>, Recueil 2012, p. 213.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121189.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121132">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121132</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62820</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DOS REIS, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CHOUVET, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>06/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">24/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">24/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Trésorier-payeur général (TPG) du Bas-Rhin - Exercices 2007 et 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Gestion &amp; Finances publiques, n° 12, 12-2013, p. 75-78.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121132.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121069">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121069</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62773</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. CHAMPOMIER, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme MOATI, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>13/09/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">24/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">24/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Contrôleur budgétaire et comptable placé auprès des ministères économique et financier (CBCM) - Exercices 2007 et 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION>
+<SOLUTION>Procédure</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 19.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etat</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable principal</DESCRIPTEUR>
+<DESCRIPTEUR>Manquant en deniers ou en valeur</DESCRIPTEUR>
+<DESCRIPTEUR>Avance remboursable</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable public était dans l'incapacité de présenter les conventions justificatives à l'origine de prêts et avances remboursables sous conditions. Après avoir rejeté la force majeure invoquée par l'intéressé, la Cour a rappelé qu'il appartient au comptable de conserver les pièces qui justifient les droits de la personne publique, sauf à engager sa responsabilité pécuniaire et personnelle.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'admission implicite de l'explication du comptable pouvant venir utilement au soutien d'une demande en remise gracieuse <I _fckxhtmljob="1">cf</I>. CC, 28 septembre 2010, <EM>payeur général du Trésor</EM>, Recueil 2010, p. 83.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'obligation de conservation et de vérification des titres de créance, <I _fckxhtmljob="1">cf.</I> CC, 16 janvier 2008, <EM>C</EM><I _fckxhtmljob="1"><EM>aisse</EM> de crédit municipal de Lyon (CML)</I>, Recueil 2008, p. 3.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121069.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121048">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121048</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62776</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>Mme DOS REIS, Conseillere maitre</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CHOUVET, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>05/10/2011</DATE_SEANCE></DATES_SEANCE>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE2" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/11/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">24/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">24/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Direction régionale des douanes de Paris-Ouest - Recette principale des douanes de Gennevilliers - Exercice 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121048.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121042">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121042</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62766</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. BRUN-BUISSON, Conseiller maitre</RAPPORTEUR>
+<RAPPORTEUR></RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. CHOUVET, Conseiller maître</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>08/11/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">24/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">24/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Trésorier-payeur général (TPG) de l'Aube - Exercices 2006 et 2007.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121042.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00121039">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>1ère chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00121039</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62450</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. CHAMPOMIER, Conseiller referendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>Mme DOS REIS, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>05/10/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">24/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">24/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Trésorier-payeur général (TPG) du Territoire de Belfort - Exercices 2007 et 2008.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 17.Gestion &amp; Finances publiques, n° 12, 12-2013, p. 67-70.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Etat</DESCRIPTEUR>
+<DESCRIPTEUR>Comptable principal</DESCRIPTEUR>
+<DESCRIPTEUR>Département</DESCRIPTEUR>
+<DESCRIPTEUR>Pièces justificatives</DESCRIPTEUR>
+<DESCRIPTEUR>Acte administratif</DESCRIPTEUR>
+<DESCRIPTEUR>Délégation de service public</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité du comptable</DESCRIPTEUR>
+<DESCRIPTEUR>Qualité de l'ordonnateur</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait payé des mandats ordonnancés par trois fonctionnaires ayant reçu de leur directeur, délégataire du préfet, une subdélégation qui n'avait pas donné lieu à publication au recueil administratif du département. La Cour a considéré qu'en absence de publication, ces actes n'emportaient, à l'égard du comptable, aucun effet. En conséquence, elle a mis en jeu la responsabilité du comptable et l'a constitué en débet pour ne pas s'être assuré de la qualité de l'ordonnateur.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur le principe de publication des actes administratifs, <I _fckxhtmljob="1">cf. </I>CE, 21 octobre 2005, <I _fckxhtmljob="1">préfet d'Ille et Vilaine, </I>n° 269361.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'obligation de contrôler la qualité de l'ordonnateur, <I _fckxhtmljob="1">cf. </I>CC, 26 juillet 2012, <I _fckxhtmljob="1">CBCM du ministère de l'outre-mer,</I> p. 132.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'engagement de la responsabilité en absence de préjudice causé à l'Etat, <I _fckxhtmljob="1">cf. </I>CC, 12 décembre 2011, <I _fckxhtmljob="1">DSF de Paris-Centre</I>, Recueil 2011 p. 129 et CC, 14 décembre 2012, <I _fckxhtmljob="1">DRFIP Nord</I>, Recueil 2012, p. 171.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00121039.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00120703">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>Chambres réunies</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00120703</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62851</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEVENON, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LE MENE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>19/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">16/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">16/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Gestion de fait des deniers de la commune de Méru (Oise) par l'Association de formation des élus méruviens (AFEM).</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Gestion de fait</SOLUTION>
+<SOLUTION>Amende</SOLUTION></SOLUTIONS>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00120703.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00120702">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>Chambres réunies</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00120702</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62848</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. THEVENON, Conseiller référendaire</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LE MENE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt d'appel</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>19/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">16/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">16/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Gestion de fait des deniers de la commune de Méru (Oise) par l'association les Amis de Méru information (AMI).</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Gestion de fait</SOLUTION>
+<SOLUTION>Amende</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 12.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Commune</DESCRIPTEUR>
+<DESCRIPTEUR>Association</DESCRIPTEUR>
+<DESCRIPTEUR>Gestion de fait</DESCRIPTEUR>
+<DESCRIPTEUR>Appel du comptable de fait</DESCRIPTEUR>
+<DESCRIPTEUR>Prescription</DESCRIPTEUR>
+<DESCRIPTEUR>Quitus</DESCRIPTEUR>
+<DESCRIPTEUR>Amende</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Après avoir été déclarés comptables de fait des deniers communaux, le président et le trésorier d'une association avaient été condamnés provisoirement au versement d'une amende, dont ils s'étaient acquittés. Appelée à statuer à titre définitif, la Cour a rencontré deux difficultés que lui soumettait le parquet général: d'une part, compte tenu de la durée de la procédure, qui avait connu des rebondissements multiples, la prescription de l'amende semblait acquise aux comptables de fait; d'autre part, lors d'un arrêt précédent par lequel elle avait statué sur la ligne de compte, la Cour avait constaté la décharge et le quitus des comptables par l'effet de la loi. Après avoir rappelé que la prescription ne pouvait atteindre les amendes déjà prononcées à titre provisoire et observé que les intéressés n'avaient pas apporté d'éléments nouveaux, la Cour les a condamnés à titre définitif à l'amende et, après avoir constaté l'apurement de cette charge, leur a donné quitus, aucune autre charge ne subsistant par ailleurs à leur encontre.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur la même affaire, <I style="mso-bidi-font-style: normal">cf.</I> CC, 24 février 2005, <I style="mso-bidi-font-style: normal">commune de Méru</I>, Recueil 2005, p. 18; CC, 24 novembre 2005, <I style="mso-bidi-font-style: normal">commune de Méru</I>, Recueil 2005, p. 93; CE, <I style="mso-bidi-font-style: normal">association des amis de Méru</I>, Recueil 2008, p. 103 et<I style="mso-bidi-font-style: normal"> </I>CC, 15 juillet 2009, <I style="mso-bidi-font-style: normal">association des amis de Méru,</I> Recueil 2009, p. 48.]]>
+</ALINEA></PARAGRAPHE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'arrêt de la procédure lorsque les comptables se sont acquittés de l'amende, <I style="mso-bidi-font-style: normal">cf.</I> CC, 17 mai 2002, <I style="mso-bidi-font-style: normal">Guide des cercles de la défense, </I>Recueil 2002, p. 63.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00120702.html</FT_SFNAME>
+</FICHE>
+<FICHE ID="JF00120696">
+<JURIDICTION FIELDNAME="JF_JURIDICT" TABLENAME="PRO_DOC" DESCRIPTION="Juridiction" TYPE="VARCHAR">Cour des comptes</JURIDICTION>
+<CHAMBRES FIELDNAME="JF_CHAMBRE" TABLENAME="PRO_DOC" DESCRIPTION="Chambre" TYPE="VARCHAR">
+<CHAMBRE>7ème chambre</CHAMBRE></CHAMBRES>
+<REFERENCE FIELDNAME="DOC_REF" TABLENAME="PRO_DOC" DESCRIPTION="Référence" TYPE="VARCHAR">JF00120696</REFERENCE>
+<NUMERO_ARPEGES FIELDNAME="JF_N_ARPEGES" TABLENAME="PRO_DOC" DESCRIPTION="N° Arpèges" TYPE="VARCHAR">62842</NUMERO_ARPEGES>
+<RAPPORTEURS FIELDNAME="JF_RAP" TABLENAME="PRO_DOC" DESCRIPTION="Rapporteur(s)" TYPE="VARCHAR">
+<RAPPORTEUR>M. GUILLOT, Conseiller maître</RAPPORTEUR></RAPPORTEURS>
+<REVISEURS FIELDNAME="JF_RAP_C" TABLENAME="PRO_DOC" DESCRIPTION="Contre-rapporteur(s)" TYPE="VARCHAR">
+<REVISEUR>M. LE MENE, Conseiller maitre</REVISEUR></REVISEURS>
+<TYPE_DOC FIELDNAME="DOC_TYPE" TABLENAME="PRO_DOC" DESCRIPTION="Type de document" TYPE="VARCHAR">Arrêt</TYPE_DOC>
+<DATES_SEANCE FIELDNAME="JF_D_SEANCE1" TABLENAME="PRO_DOC" DESCRIPTION="Date(s) de séance" TYPE="DATE">
+<DATE_SEANCE>21/12/2011</DATE_SEANCE></DATES_SEANCE>
+<DATE_DOC FIELDNAME="JF_D_ENVOI" TABLENAME="PRO_DOC" DESCRIPTION="Date du document" TYPE="DATE">16/01/2012</DATE_DOC>
+<DATE_LECTURE FIELDNAME="JF_D_LECTURE" TABLENAME="PRO_DOC" DESCRIPTION="Date de lecture" TYPE="DATE">16/01/2012</DATE_LECTURE>
+<TITRE FIELDNAME="DOC_TITRE" TABLENAME="PRO_DOC" DESCRIPTION="Titre" TYPE="VARCHAR">Chambre d'agriculture de la Nièvre - Exercices 2005 à 2009.</TITRE>
+<SOLUTIONS FIELDNAME="JF_SOLUTION" TABLENAME="PRO_DOC" DESCRIPTION="Solution" TYPE="VARCHAR">
+<SOLUTION>Débet</SOLUTION></SOLUTIONS>
+<PUBLICATION FIELDNAME="JF_PUBLICAT" TABLENAME="PRO_DOC" DESCRIPTION="Publication" TYPE="VARCHAR"><PARAGRAPHE><ALINEA>
+<![CDATA[Arrêts, jugements et communications des juridictions financières, 2012. - DILA, 2013, p. 11.]]>
+</ALINEA></PARAGRAPHE></PUBLICATION>
+<DESCRIPTEURS1 FIELDNAME="JF_DEE_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Descripteurs 1" TYPE="VARCHAR">
+<DESCRIPTEUR>Chambre d'agriculture</DESCRIPTEUR>
+<DESCRIPTEUR>Indemnité</DESCRIPTEUR>
+<DESCRIPTEUR>Exactitude des calculs de liquidation</DESCRIPTEUR>
+<DESCRIPTEUR>Paiement irrégulier</DESCRIPTEUR>
+<DESCRIPTEUR>Régularisation</DESCRIPTEUR>
+<DESCRIPTEUR>Responsabilité</DESCRIPTEUR>
+<DESCRIPTEUR>Débet</DESCRIPTEUR></DESCRIPTEURS1>
+<RESUME1 FIELDNAME="JF_RESU_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Résumé 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Un comptable avait perçu des indemnités de caisse et de responsabilité d'un montant supérieur à celui prévu par arrêté. La Cour a rappelé que, si la requalification en salaire du trop-perçu vaut pour l'avenir, elle n'a pas d'effet sur les paiements antérieurs qui demeurent irréguliers.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></RESUME1>
+<COMMENTAIRES1 FIELDNAME="JF_COMM_JRS1" TABLENAME="PRO_DOC" DESCRIPTION="Commentaires juris 1" TYPE="VARCHAR">
+<TEXTE_STRUCTURE><PARAGRAPHE><ALINEA>
+<![CDATA[Sur l'exactitude des calculs de liquidation, <I style="mso-bidi-font-style: normal">cf.</I> CC, 28 septembre 2010, <I style="mso-bidi-font-style: normal">Payeur général du Trésor</I>, Recueil 2010, p. 81 et CRC Guadeloupe, 20 septembre 2011, <I style="mso-bidi-font-style: normal">commune de Petit-Bourg (Guadeloupe)</I>, Recueil 2011, p. 106.Sur l'appréciation par la Cour du caractère irrégulier des dépenses au moment des faits, <I style="mso-bidi-font-style: normal">cf.</I> CC, 25 novembre 2010, <I style="mso-bidi-font-style: normal">communauté d'agglomération « Coeur de Seine »</I>, Recueil 2010, p. 102;<I style="mso-bidi-font-style: normal"> </I>CC, 21 juillet 2011, <I style="mso-bidi-font-style: normal">département de la Dordogne</I>, Recueil 2011, p. 89et CRC, 9 février 2012, <I style="mso-bidi-font-style: normal">commune de Dugny (Seine-Saint-Denis)</I>, Recueil 2012, p. 41.]]>
+</ALINEA></PARAGRAPHE></TEXTE_STRUCTURE></COMMENTAIRES1>
+<FT_SFNAME FIELDNAME="FT_SFNAME" TABLENAME="PRO_DOC" DESCRIPTION="Texte Intégral" TYPE="VARCHAR">jf00120696.html</FT_SFNAME>
+</FICHE>
+</CADIC>
